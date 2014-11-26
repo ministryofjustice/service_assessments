@@ -3,10 +3,10 @@
     url = https://github.com/ministryofjustice/moj_internal_template.git
 
 [submodule "_assets/govuk_template"]
-    path = _assets/govuk_template
-    url = https://github.com/alphagov/govuk_template.git
+	path = _assets/govuk_template
+	url = https://github.com/alphagov/govuk_template.git
 
 [submodule "_assets/govuk_frontend_toolkit"]
-    path = _assets/govuk_frontend_toolkit
-    url = https://github.com/alphagov/govuk_frontend_toolkit.git
+	path = _assets/govuk_frontend_toolkit
+	url = https://github.com/alphagov/govuk_frontend_toolkit.git
 
