@@ -1,3 +1,151 @@
 User Needs:
   1:
-    criteria: Understand user needs.
+    criteria: "Understand user needs. Research to develop a deep knowledge of who the service users are and what that means for digital and assisted digital service design"
+    prompts: |
+      * What user research have you completed so far? (should be more than just a one off survey)
+      * How many users did you speak to?
+      * Have you done qualitative and quantitative research?
+      * What have you learnt about your users that is specifically relevant to the design of the service?
+      * How has your research being applied to the design of the service?
+      * What are the user needs for your service? (Can you capture them in one sentence?)
+      * Have you created user stories based on user needs?
+      * What user research do you plan to do during the remainder of the beta?
+      * Have you researched what the service should be called to best meet user needs and discussed with GOV.UK to ensure the start page is optimised? (using user research and digital landscape analytics)
+
+    evidence: |
+      Service Manager able to:
+
+      - explain clearly what user research has been completed during the beta including qualitative usability testing and quantitative surveys
+      - explain the user research methods, frequency of testing (normally with at least 5 users for each sprint), types of recruits and where they were recruited from, how the full service has been tested and in what environments, resources available and communication process into the service team to inform the design
+      - explain what has been learnt about users and user needs, including population demographics and digital proficiency profiles
+      - give an example of a user story, the need it relates to and how that user need was determined
+      - explain how the service was name was determined through user research
+  20:
+    criteria: Put a plan in place for ongoing user research and usability testing to continuously seek feedback from users
+    prompts: |
+      * What are you learning from user research and usability testing during the beta?
+      * How has this been incorporated into the service design?
+      * What is your research plan for the rest of the beta?
+      * Are the resources in place to do regular user research and usability testing throughout the beta?
+      * Do you have a testing environment in place for the beta?
+      * Who in the team is doing user research and usability testing during the beta?
+      * How often are you doing user research and usability testing during the beta?
+      * How will the results feed into the design of the service?
+      * What is the user research plan for the remainder of beta stage and are there resources for user research and usability testing?
+
+    evidence: |
+      Service Manager able to:
+
+      - explain what they learnt during the alpha and how this was incorporated into the service design
+      - explain their research plan for the beta in detail
+      - explain who is doing user research and usability testing and how it is being resourced in the beta
+      - explain their testing environment
+      - explain how often they will be doing user research and usability testing during the beta
+      - explain how the results from user research and usability testing will be incorporated into the design of the service during the beta
+  
+The Team:
+  2:
+    criteria: Put in place a sustainable multidisciplinary team that can design, build and operate the service, led by a suitably skilled and senior service manager with decision-making responsibility.
+    prompts: |
+      * Can you talk us through the team that was in place during the alpha and what the team will look like for the beta?
+      * Was the service manager empowered to make decisions during the alpha and will this remain be the case for the beta?
+      * Can you give us an example?
+      * Is the service manager the single responsible person with the power and knowledge to make decisions to improve the service day to day during the beta?
+      * Were there any gaps in the team during the alpha and how are you addressing these for the beta?
+      * How much help have you had from GDS and how are you transferring skills and knowledge to the team during the beta?
+      * Are you using external people and if so, how are you approaching transferring skills and knowledge to the team during the beta?
+      * Is there a separation of key roles?
+
+    evidence: |
+      Service Manager able to:
+
+      - clearly explain the structure of the team during the alpha and for the beta (the following should be either in the team or available to the team depending on the scale of the service - service manager, product manager, delivery manager, tech lead, assisted digital lead, designer, user researcher, developers, content designer, technical architect, web ops, product analyst)
+      - show they were empowered to make decisions during the alpha and will continue to do during the beta
+      - show there are no gaps in the team or explain how they will address any gaps in the beta
+      - explain how they will transfer skills and knowledge to the team during the beta (where they have had help from GDS)
+      - explain how they will transfer knowledge from external people to the team during the beta
+      - show that there is a separation of key roles (i.e. the same person is not performing multiple roles within the service)
+      - there is at least one user researcher working at least 3 days per week
+
+  6:
+    criteria: Build the service using the agile, iterative and user-centred methods set out in the manual
+    prompts: |
+      * Talk us through how you have worked in an agile way during the alpha and how you will do so in the beta?
+      * What tools and techniques have you used during the alpha to enable this way of working?
+      * How are you reviewing and iterated your processes?
+      * How are you adapting your processes to be responsive and iterated them? 
+      * How are you communicating within the team?
+      * Can you give an example from the alpha of how you have responded to user research and usability testing?
+
+    evidence: |
+      Service Manager able to:
+
+      - clearly explain how the service has worked in an agile way during the alpha and will continue to do so in the beta, giving examples of using agile tools and techniques
+      - explain how the service has reviewed and iterated their processes to be responsive during the alpha
+      - explain how the team has used agile tools and techniques to communicate within the team during the alpha
+      - give an example of how the service has responded to user research and usability testing during the alpha
+
+Security, Privacy, Tools and Standards:
+  3:
+    criteria: Evaluate what user data and information the service will be providing or storing, and address the security level, legal responsibilities, and risks associated with the service (consulting with experts where appropriate)
+    prompts: |
+      * Have you engaged with the right people?
+      * Has a SIRO (Senior Information Risk Owner) been assigned and who are they?
+      * Has a (IAO) Information Asset Owner been assigned?
+      * Has an Accreditor been assigned to the project?
+      * Have you set the risk appetite for the project?
+      * What are you worried about?
+      * Why is the architecture of the service the way it is?
+      * What is the relationship between the service manager and the SIRO?
+      * Have you done a risk assessment and who has signed off the risks?
+      * Is the level of security appropriate (i.e. not too high or too low)?
+      * Have you got SIRO approval to operate or interim accreditation?
+      * Has the service been subject to an assessment using RSDOPS?
+      * What identity assurance needs were identified and how are they being met?
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    evidence: |
+      Service Manager able to:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
