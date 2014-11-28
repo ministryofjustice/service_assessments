@@ -66,7 +66,6 @@ The Team:
       - explain how they will transfer knowledge from external people to the team during the beta
       - show that there is a separation of key roles (i.e. the same person is not performing multiple roles within the service)
       - there is at least one user researcher working at least 3 days per week
-
   6:
     criteria: Build the service using the agile, iterative and user-centred methods set out in the manual
     prompts: |
@@ -103,45 +102,354 @@ Security, Privacy, Tools and Standards:
       * Has the service been subject to an assessment using RSDOPS?
       * What identity assurance needs were identified and how are they being met?
     
+    evidence: |
+      Service Manager able to:
 
+        - show that the security of the service is owned by the team under the service manager and that there has been proportionate external validation
+        - explain who they have engaged with
+        - confirm who the SIRO, Information Asset Owner and Accreditor are for the project
+        - explain what the risk appetite is for the project
+        - explain the architecture of the service and why they have chosen it
+        - confirm they have done a risk assessment and explain who has signed off the risks
+        - explain the level of security and why it was chosen
+        - confirm they have the SIRO's approval to operate or interim accreditation
+        - confirm service assessed against RSDOPS to identify the risks and the extent to which the service needs to know that users are who they say they are
+        - identified if the service needs to use identity assurance and if so what type/level.
+  4:
+    criteria: Evaluate the privacy risks to make sure that personal data collection requirements are appropriate
+    prompts: | 
+       * What have you done to ensure compliance with the Data Protection Act?
+       * What data goes where and why?
+       * Who is the data controller for the service?
+       * How have you ensured you follow cookie policy?
+       * Has a Privacy Impact Assessment been carried out?
+       * Has the SIRO signed off any risks?
+    
+    evidence: |
+      Service Manager able to:
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+        - explain how the service complies with the Data Protection Act
+        - explain data flows i.e. what data goes where and why
+        - confirm who the data controller is for the service
+        - explain how the service complies with cookie policy
+        - confirm that a Privacy Impact Assessment has been carried out and that the SIRO has signed off any risks
+  5:
+    criteria: Evaluate what tools and systems will be used to build, host, operate and measure a service, and how to procure them
+    prompts: | 
+      * How did you choose technology for the beta?
+      * What tools are you using for the beta?
+      * What options were considered and what factors led to the decision?
+      * How are you avoiding lock-in during the beta and beyond?
+      * Are the contracts in place suitably flexible and delivering value for money?
+      * What procurement vehicles have you used and why?
+      * What changes are you planning to make in the beta?
+      * What metrics are you collecting from the running system ?
+      * How will you monitor and manage capacity in the beta?
+      * How will you respond to increases in demand in the beta?
+      * Do the operational team know what to do in the event of an incident on the service and have you tested this?
 
     evidence: |
       Service Manager able to:
 
+        - explain what technology and tools the service has bought, built and will use for the beta and why they have chosen them
+        - explain how they are avoiding lock in, how their contracts are suitably flexible and how they are delivering value for money
+        - explain what procurement vehicles they have used and why
+        - explain what changes they are planning to make for the beta
+        - explain what metrics they are collecting from the running system
+        - explain how they will monitor and manage capacity in the beta, and how they will respond to increases in demand
+        - explain the process in the event of an incident on the service and how this has been tested 
+  15:
+    criteria: Make all new source code open and reuseable, and publish it under appropriate licences (or provide a convincing explanation as to why this cannot be done for specific subsets of the source code)
+    prompts: |
+      * Do you have a policy in place for making new source code open and reuseable during the beta?
+      * What licences are you using to release code during the beta?
+      * Do you own the intellectual property?
+      * Can I reuse your code in another department?
+      * What have you open sourced for the beta?
 
+    evidence: |
+      Service Manager able to:
 
+        - explain their policy for making all new source code open and reusable during the beta
+        - explain what licences they are using to release code during the beta
+        - confirm that the service owns the intellectual property or give a valid explanation why not
+        - explain how other departments will be able to reuse their code during the beta
+        - show an example of something that is open sourced for the beta
+  16:
+    criteria: Use open standards and common government platforms (eg identity assurance) where available
+    prompts: |
+      * What open standards are you using?
+      * Are you complying with the open standards board's decisions?
+      * Are you imposing vendor technology choices on users?
+      * What standards are you using to reduce lock-in?
+      * Are you intending to use the identity assurance platform when it is available?
 
+    evidence: |
+      Service Manager able to:
 
+        - explain what open standards the service will use during the beta
+        - explain how they are complying with the open standards board's decisions
+        - explain how they are avoiding imposing vendor technology decisions on users and reducing lock-in
+        - explain whether they are intending to use the identity assurance platform for their service and if not, why not
+  17:
+    criteria: Be able to test the end-to-end service in an environment identical to that of the live version on all common browsers and devices. Use dummy accounts and a representative sample of users.
+    prompts: |
+      * How will you deploy in the beta service and how will you test before deploying?
+      * Where do you do performance testing?
+      * Do you have an environment for previewing new features?
+      * Are you doing ongoing penetration testing?
+      * What browsers and devices do you support and why?
 
+    evidence: |
+      Service Manager able to:
 
+        - explain how they will deploy during the beta and test before deploying
+        - explain how and where they will do performance testing for the beta service
+        - explain how they can preview new features before deploying them to the beta service
+        - explain their plan for ongoing penetration testing during the beta
+        - confirm that the service supports all browsers and devices identified in the service manual, and if not provide a valid reason why not
+  25:
+    criteria: Make a plan for the event of the service being taken temporarily offline.
+    prompts: |
+      * Do you have a disaster recovery plan in place for the beta and have you tested it?
+      * Have you evaluated your suppliers disaster recovery capability?
+      * Have you planned for the consequences of a forced shutdown in the beta?
+      * Have you planned for a Distributed Denial of Service attack and other malicious attacks in the beta? Have you tested it?
+      * Have you done sufficient load testing for the beta?
+      * Do you have a line into GovCertUK for reporting in the event of an incident?
 
+    evidence: |
+      Service Manager able to:
 
+        - explain their disaster recovery plan for the beta and how they have tested it
+        - explain what their suppliers disaster recovery capability is where appropriate
+        - explain how the service would deal with a forced shutdown in the beta
+        - explain how they will deal with a DDoS attack and other malicious attacks in the beta
+        - explain what load testing they have done for the beta
+        - confirm they are aware of GovCertUK and are aware of how to report an incident
 
+Improving the Service:
+  14:
+    criteria: Make sure that you have the capacity and technical flexibility to update and improve the service on a very frequent basis
+    prompts: |
+      * Talk us through your deployment process for the beta?
+      * How long will it take to make a change to the service during the beta?
+      * Who can make a change during the beta?
+      * Who can authorise making a change during the beta?
+      * How will you test a change before it is made during the beta?
+      * Will you require downtime for a release during the beta? How long is the downtime?
 
+    evidence: |
+      Service Manager able to:
 
+        - clearly explain their deployment process for the beta
+        - explain how long it will take to make a change to the service during the beta
+        - explain who can make a change and who can authorise a change during the beta
+        - explain how they will test a change before it is made during the beta
+        - explain why the service requires downtime for a release and how long that downtime will be during the beta
+  19:
+    criteria: Build a service that can be iterated on a frequent basis and make sure resources are in place to do so
+    prompts: |
+      * How has the service being iterated frequently during the alpha and how will this continue during the beta?
+      * Who in the team was responsible for user research, usability testing and identifying actionable data insights during the alpha, and who will be responsible during the beta?
+      * Have you planned access to the data sets you'll need during the beta e.g analytics, call centre data?
+      * What have you thrown away or changed from the alpha?
 
+    evidence: |
+      Service Manager able to:
 
+        - show that the service has being iterated on a frequent basis during the alpha, based on user research, usability testing and analytics, and explain how this will continue during the beta
+        - explain who in the team was responsible for user research, usability testing and identifying actionable data insights during the alpha, and who will be responsible during the beta
+        - explain how they plan to access the data sets they will need e.g. analytics, call centre data
+        - explain what they have thrown away during the alpha
 
+Design:
+  9:
+    criteria: Create a service that is simple and intuitive enough that users succeed first time, unaided
+    prompts: |
+      * What evidence can you provide that users are, in the majority of cases, succeeding first time?
+      * Were less digitally minded and non subject area experts able to use the alpha service?
+      * How were the design and content decisions made for the beta?
+      * Has the current version of the service been tested for accessibility?
+      * Are you demonstrating just the happy path - what thought has gone into other paths and can you show us they work?
+    
+    evidence: |
+      Service Manager able to:
 
+        - show the majority of users of the alpha service are succeeding first time
+        - explain how the design and content decisions for the alpha were made, and relate back to user research, usability testing and analytics
+        - show the alpha service is accessible
+        - explain other paths in the alpha service and demonstrate that they work
+  12:
+    criteria: Integrate the service with any non-digital sections required for legal reasons
+    prompts: |
+      * Does the service have any non-digital steps and if so, why?
+      * What has been done to ensure that any non-digital steps work seamlessly with the digital service?
+      * Have you tested the non-digital steps with users so far?
+      * How are you planning to overcome any policy constraints and legislative barriers that are preventing the service from been an end to end digital service?
+    
+    evidence: |
+      Service Manager able to:
 
+        - explain why any non-digital steps are required for the beta service
+        - how any non-digital steps seamlessly link to the digital service and how they have tested them with users during the alpha
+        - explain how they intend to overcome the policy constraints or legislative barriers that are preventing the service from been an end to end digital service
+        - demonstrate non-digital steps have been user tested
+  13:
+    criteria: Build a service consistent with the user experience of the rest of GOV.UK by using the design patterns and style guide.
+    prompts: |
+      * Has a designer and content designer been involved during the development so far?
+      * Will there be a designer and content designer in the team or available to the team during the beta?
+      * Have you used the GOV.UK design patterns and front end tool kit during the alpha and will you be doing so during the beta?
+      * Do you have a front end developer in place for the beta development?
+      * Have you used the GDS style guide during the alpha and will you be doing so during the beta?
+      * Is the service responsive? Can you show us it works on mobile?
+      * Do the headers and footers match the GOV.UK style?
 
+    evidence: |
+      Service Manager able to:
 
+        - explain how the service has used the GOV.UK design patterns, front end tool kit and GDS style guide in the alpha.
+        - explain what design, content design and front end developer support will be available to the team during the beta
+        - show the service is responsive and works on mobile
+        - show that the headers and footers match the GOV.UK style
 
+Assisted Digital and Channel Shift:
+  10:
+    criteria: Put appropriate assisted digital support in place that’s aimed towards those who genuinely need it
+    prompts: |
+      * What user research have you conducted with AD users, what have you learnt and how has this informed your AD support for the beta?
+      * Can you tell us about your AD support for the beta?
+      * How are you going to test your AD support during the beta?
+      * How will you gather user insights during the beta, and how will you use them to iterate your AD support during the beta?
+
+    evidence: |
+      Service Manager able to:
+
+        - explain what they have learnt from user research with AD users and how this has informed their AD support for the beta
+        - explain what AD support will be in place for the beta. This should include
+          * timelines;
+          * expected number of transactions and costs, by channel, during the beta and after live;
+          * joined up and consistent support across central government transactions;
+          * incorporation of digital inclusion;
+          * evidence that support meets relevant legal requirements such as language, data protection and accessibility;
+        - explain how they will test their AD support during the beta
+        - explain how they will gather AD user and expert insights and use them to iterate their AD support during the beta
+  11:
+    criteria: Plan (with GDS) for the phasing out of any existing alternative channels, where appropriate
+    prompts: |
+      * What is your plan for increasing digital take up during the beta?
+      * Tell us about your evidence base to support these plans?
+      * How are you able to assess if users are shifting away from your non-digital channels to your digital one?
+      * How have you tested the effectiveness of your messaging with real users?
+      * How did you identify users’ perceived risks and how do you know it’s working?
+
+    evidence: |
+      Service Manager able to:
+
+        - explain how they plan to increase digital take up during the beta
+        - explain the evidence base behind their plans for increasing digital take up
+        - demonstrate (at least) weekly analytics/metrics for usage volumes across channels
+        - demonstrate how your messaging has improved based on user insight and how it has performed based on analytics
+        - demonstrate that you have addressed users perceived risk throughout user research
+
+Analysis and Benchmarking:
+  8:
+    criteria: Analyse the prototype service’s success, and translate user feedback into features and tasks for the next phase of development
+    prompts: |
+      * What prototype testing have you done so far?
+      * What did and do you plan to test?
+      * How did and do you test the prototype with end users?
+      * What have you learnt?
+      * What did you change?
+      * What didn't you change and why?
+      * How many other versions of the prototype did you try?
+      * Why did you choose this version?
+      * Have you started discussions with GOV.UK about start and end pages?
+
+    evidence: |
+      Service Manager able to:
+
+        - show videos of usability testing
+        - talk clearly about user research reports, indicating where a service required remediation
+        - talk through substantial iteration in the design and content of the service during the alpha
+        - show they have discussed and agreed start and end pages with GOV.UK and these are optimised
+  18:
+    criteria: Use analytics tools that collect performance data
+    prompts: |
+      * What analytics tool have you installed?
+      * Has the SIRO signed this off?
+      * Have you anonymised the user IP address?
+      * Have you opted out of data sharing with 3rd parties?
+      * In addition to the 4 KPIs, what other KPIs are you tracking?
+      * Are you able to track progression through your transaction so you can identify areas of poor performance?
+      * Have you tracked exit paths?
+      * Have you tracked outbound links?
+      * Who in the team is responsible for identifying actionable data insights?
+      * Have you built a funnel and who will work on it?
+
+    evidence: |
+      Service Manager able to:
+
+        - explain what analytics tool they have used during the alpha and intend to use for the beta
+        - show that the SIRO has signed it off for the beta
+        - explain for their chosen analytics tool that they have anonymised the user IP address and have opted out of sharing data with 3rd parties for the beta
+        - explain what additional KPI's they have tracked during the alpha and will track in the beta
+        - explain how they will track progression through the transaction so they can identify areas of poor performance in the beta
+        - explain how they will be tracking exit paths and outbound links for the beta
+        - explain who in the team was responsible for identifying actionable data insights during the alpha and who will be responsible in the beta
+        - explain how they have built a funnel and who will be working on it
+  7:
+    criteria: Establish performance benchmarks, in consultation with GDS, using the 4 key performance indicators (KPIs) defined in the manual, against which the service will be measured
+    prompts: |
+      * How will you collect data on the 4 KPI's during the beta?
+      * How are you measuring the performance of the old service to provide a baseline for the new service?   
+    evidence: |
+      Service Manager able to:
+
+        - explain how they will collect data on the 4 KPI's during the beta
+        - explain how they currently measure the performance of the old service to provide a baseline for the new service
+  group:
+    points: 
+      21: Establish a benchmark for user satisfaction across the digital and assisted digital service. Report performance data on the Performance Platform.
+      22: Establish a benchmark for completion rates across the digital and assisted digital service. Report performance data on the Performance Platform.
+      23: Make a plan (with supporting evidence) to achieve a low cost per transaction across the digital and assisted digital service. Report performance data on the Performance Platform.
+      24: Make a plan (with supporting evidence) to achieve a high digital take-up and assisted digital support for users who really need it. Report performance data on the Performance Platform.
+    prompts: |
+      * How are you measuring the performance of the old service to provide a baseline for the new service?
+      * Have you installed stageprompt (or equivalent event tracking)?
+      * How will you collect user satisfaction data during the beta?
+      * How will you collect completion rate data during the beta?
+      * How will you collect cost per transaction data during the beta?
+      * How will you collect digital take up data during the beta?
+      * Tell us about your plan to increase digital take up during the beta?
+      * What data is being collected, how they are collecting it, and is it being shared with performance platform?
+      * How are data analytics and user research being used to identify % of users who could channel shift and who will need assisted digital services?
+      * What are their plans for engaging with service users, delivery partners or other stakeholders during the beta phase?
+    evidence: |
+      Service Manager able to:
+      
+        - explain how they will collect user satisfaction data during the beta (through the standard questionnaire on the GOV.UK done page)
+        - explain how they currently measure the performance of the old service to provide a baseline for the new service
+        - show they have installed stageprompt (or equivalent event tracking)
+        - explain how they will collect completion rate data during the beta
+        - explain how they will collect cost per transaction data during the beta
+        - explain how they will collect digital take up data during the beta
+        - explain how they currently measure the performance of the old service to provide a baseline for the new service
+        - explain how they plan to increase digital take up during the beta
+        - how they are assessing potential for channel shift and level of assisted digital services required
+        - how they are engaging with beta users, delivery partners and other stakeholders to manage transition to live service         how they will track migration from online to offline
+
+Testing with the Minister:
+  26:
+    criteria: Test the service from beginning to end with the minister responsible for it
+    prompts: |
+      * How are you planning to test the service with the minister responsible for it before the service moves into Live?
+    
+    evidence: |
+      Service Manager able to:
+      
+        - How are you planning to test the service with the minister responsible for it before the service moves into Live?
 
 
 
