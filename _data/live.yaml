@@ -179,7 +179,7 @@ Security, Privacy, Tools and Standards:
         - confirm that the service owns the intellectual property or give a valid explanation why not
         - explain how other departments will be able to reuse their code after the service is live
         - show an example of something that is open sourced for the live service
-        - explain which code has not been published, giving a valid reason why it has not
+        - explain which code has not been published, giving a valid reason why it hasn't
   16:
     criteria: Use open standards and common government platforms (eg identity assurance) where available
     prompts: |
