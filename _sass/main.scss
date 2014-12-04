@@ -18,6 +18,14 @@ body > nav > ul li:first-child {
     padding-left:0;
 }
 
+h2 {
+    background: url(../images/expand.png) left center no-repeat;
+    padding-left: 30px;
+}
+h2.is-open {
+    background-image: url(../images/arrow_expand.png);
+}
+
 ul,
 ol {
     margin-left: 25px;
