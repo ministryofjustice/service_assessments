@@ -19,11 +19,12 @@ body > nav > ul li:first-child {
 }
 
 h2 {
-    background: url(../images/expand.png) left center no-repeat;
+    background: url(../images/bullet_blue_expand.png) left center no-repeat;
     padding-left: 30px;
 }
 h2.is-open {
-    background-image: url(../images/arrow_expand.png);
+    background-image: url(../images/bullet_blue_collapse.png);
+        padding-left: 30px;
 }
 
 ul,
