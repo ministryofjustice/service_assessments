@@ -15,6 +15,11 @@ title: Beta
 {% assign point = data[0] %}
 {% assign info = data[1] %}
 <hr>
+<!-- <div>
+<input type="submit" id="show" value="Show info">
+<input type="submit" id="hide" value="Hide info">
+</div>
+ -->
 {% if point == "group"%}
 {% for group_point in info.points %}
 {% assign sub_point = group_point[0] %}
