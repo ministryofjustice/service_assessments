@@ -79,6 +79,13 @@
     <!--end footer-->
 
     <div id="global-app-error" class="app-error hidden"></div>
+  
+  {% javascript_asset_tag global %}
+  - /_assets/moj_internal_template/app/assets/javascripts/vendor/jquery/jquery-1.11.0.min.js
+  - /_assets/moj_internal_template/app/assets/javascripts/moj.js
+  - /_assets/javascript/functions.js
+  {% endjavascript_asset_tag %}
+  <script type="text/javascript">$(moj.init);</script>
 
   </body>
 </html>

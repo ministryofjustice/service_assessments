@@ -28,7 +28,7 @@ User Needs:
       * How do the results feed into the design of the service?
       * What is the user research plan for the beta stage and are there resources for user research and usability testing?
     evidence: |
-      Service manager able to
+      Service manager able to:
     
       - explain what they learnt during the alpha and how this was incorporated into the service design
       - explain who is doing user research and usability testing and how it is being resourced
@@ -48,7 +48,7 @@ The Team:
       * Are there any gaps in the team and how are you addressing these?
       * Is there a separation of key roles?
     evidence: |
-      Service Manager able to
+      Service Manager able to:
       
       * clearly explain the structure of the team for the alpha (the following should be either in the team or available to the team depending on the scale of the service - service manager, product manager, delivery manager, tech lead, assisted digital lead, designer, user researcher, developers, content designer, technical architect, web ops, product analyst)
       * explain how they are empowered to make decisions during the alpha
@@ -65,7 +65,7 @@ The Team:
       * How are you communicating within the team?
       * Can you give an example of how you have responded to user research and usability testing?
     evidence: |
-      Service Manager able to
+      Service Manager able to:
       
       - clearly explain how the service is working in an agile way, using agile tools and techniques
       - explain how the service has reviewed and iterated their processes to be responsive
@@ -88,7 +88,7 @@ Security, Privacy, Tools and Standards:
       * Has the service been subject to an assessment using RSDOPS?
       * What identity assurance needs were identified and how are they being met?
     evidence: |
-      Service Manager able to
+      Service Manager able to:
       
       - show that the security of the service is owned by the team under the service manager and that there has been proportionate external validation 
       - explain who they have engaged with
@@ -107,7 +107,7 @@ Security, Privacy, Tools and Standards:
       * Who is the data controller for the service?
       * How have you ensured you follow cookie policy?
     evidence: |
-      Service Manager able to
+      Service Manager able to:
     
       - explain how the service complies with the Data Protection Act
       - explain data flows i.e. what data goes where and why
@@ -124,7 +124,7 @@ Security, Privacy, Tools and Standards:
       * What procurement vehicles have you used and why?
       * What changes are you planning to make?
     evidence: |
-      Service Manager able to
+      Service Manager able to:
     
       - explain what technology and tools the service has bought, built and uses for the alpha and why they have chosen them
       - explain how they are avoiding lock in, how their contracts are suitably flexible and how they are delivering value for money
@@ -137,7 +137,7 @@ Security, Privacy, Tools and Standards:
       * Do you own the intellectual property?
       * Will I be able to reuse your code in another department?
     evidence: |
-      Service manager able to
+      Service manager able to:
       
       - explain their plan for making all new source code open and reusable during the alpha
       - confirm that the service owns the intellectual property or give a valid explanation why not
@@ -151,7 +151,7 @@ Security, Privacy, Tools and Standards:
       * What standards are you using to reduce lock-in?
       * Have you engaged with the identity assurance team in GDS?
     evidence: |
-      Service Manager able to
+      Service Manager able to:
       
       - explain what open standards the service is using during the alpha
       - explain how they are complying with the open standards board's decisions during the alpha
@@ -166,7 +166,7 @@ Security, Privacy, Tools and Standards:
       * Are you doing ongoing penetration testing?
       * What browsers and devices do you support and why?
     evidence: |
-      Service Manager able to
+      Service Manager able to:
       
       - explain how they deploy during the alpha and test before deploying
       - explain how and where they do performance testing for the alpha service
@@ -183,7 +183,7 @@ Security, Privacy, Tools and Standards:
       * Have you done sufficient load testing for the alpha?
       * Do you have a line into GovCertUK for reporting in the event of an incident?
     evidence: |
-      Service manager able to
+      Service manager able to:
       
       - explain their disaster recovery plan for the alpha, including understanding their suppliers disaster recovery capability where appropriate
       - explain how the service would deal with a forced shutdown in the alpha
@@ -201,7 +201,7 @@ Improving the Service:
       * How do you test a change before it is made during the alpha?
       * Do you require downtime for a release during the alpha? How long is the downtime?
     evidence: |
-      Service Manager able to
+      Service Manager able to:
       
       - clearly explain their deployment process for the alpha
       - explain how long it takes to make a change to the service during the alpha
@@ -214,7 +214,7 @@ Improving the Service:
       * How did you iterate the service frequently during the alpha?
       * Who was responsible for user research, usability testing and identifying actionable data insights during the alpha?
     evidence: |
-      Service Manager able to
+      Service Manager able to:
       
       - explain how they have iterated the service frequently during the alpha
       - explain who was responsible for user research, usability testing and identifying actionable data insights during the alpha
@@ -224,7 +224,7 @@ Design:
     prompts: |
       * How did you collect evidence that users of the alpha service are, in the majority of cases, succeeding first time?
     evidence: |
-      Service Manager able to
+      Service Manager able to:
       
       - explain how they collected evidence that users of the alpha service are, in the majority of cases, succeeding first time
   12:
@@ -235,7 +235,7 @@ Design:
       * How have you tested the non-digital steps with users during the alpha?
       * How are you planning to overcome any policy constraints and legislative barriers that are preventing the service from been an end to end digital service?
     evidence: |
-      Service Manager able to
+      Service Manager able to:
       
       - explain why any non-digital steps are required for the alpha service
       - how any non-digital steps seamlessly link to the digital service and how they have tested them with users during the alpha
@@ -248,7 +248,7 @@ Design:
       Do you have a front end developer in place?
       Have you used the GDS style guide during the alpha?
     evidence: |
-      Service Manager able to
+      Service Manager able to:
       
       - explain how the service will use the GOV.UK design patterns, front end tool kit and GDS style guide during the alpha
       - explain what design, content design and front end developer support was available to the team during the alpha
@@ -284,7 +284,7 @@ Assisted Digital and Channel Shift:
       * Which organisations/groups help your users with the existing digital or non-digital services?
       * How has the digital service been designed to give it clear advantages over the other channels?
     evidence: |
-      Service Manager able to
+      Service Manager able to:
       
       - explain their plan for increasing digital take up
       - explain what other channels the service is delivered through
@@ -306,7 +306,7 @@ Analysis and Benchmarking:
       * How many other versions of the prototype did you try?
       * Why did you choose this version?
     evidence: |
-      Service Manager able to
+      Service Manager able to:
       
       - talk clearly about user research reports, indicating where a service required remediation
       - talk through substantial iteration in the design and content of the service during the alpha
@@ -319,7 +319,7 @@ Analysis and Benchmarking:
       * Who does analytics in the team during the alpha?
       * In addition to the 4 KPI's, what other KPI's are you tracking during the alpha?
     evidence: |
-      Service Manager able to
+      Service Manager able to:
       
       - explain what analytics tool is installed for the alpha and that the SIRO is happy with this approach
       - explain who in the team is responsible for identifying actionable data insights during the alpha
@@ -330,7 +330,7 @@ Analysis and Benchmarking:
       * Have you made contact with the performance platform?
       * How are you measuring the performance of the old service to provide a baseline for the new service?
     evidence: |
-      Service Manager able to
+      Service Manager able to:
       
       - show they have made contact with the performance platform
       - explain how they currently measure the performance of the old service to provide a baseline for the new service
@@ -340,7 +340,6 @@ Analysis and Benchmarking:
       22: Establish a benchmark for completion rates across the digital and assisted digital service. Report performance data on the Performance Platform.
       23: Make a plan (with supporting evidence) to achieve a low cost per transaction across the digital and assisted digital service. Report performance data on the Performance Platform.
       24: Make a plan (with supporting evidence) to achieve a high digital take-up and assisted digital support for users who really need it. Report performance data on the Performance Platform."
-    criteria: Establish performance benchmarks, in consultation with GDS, using the 4 key performance indicators (KPIs) defined in the manual, against which the service will be measured
     prompts: |
       * Have you made contact with the performance platform?
       * How are you measuring the performance of the old service to provide a baseline for the new service?
@@ -349,7 +348,7 @@ Analysis and Benchmarking:
       * How do current digital take up levels for your service compare with those of similar services?
       * How are you measuring the performance of the service across all existing channels (This will provide a baseline for the new service)?
     evidence: |
-      Service Manager able to
+      Service Manager able to:
       
       - show they have made contact with the performance platform and understand the role of stageprompt (or an equivalent event tracking) in getting their completion rate data on their performance dashboard
       - explain how they currently measure the performance of the old service to provide a baseline for the new service
@@ -360,8 +359,8 @@ Testing with the Minister:
   26:
     criteria: Test the service from beginning to end with the minister responsible for it
     prompts: |
-      How are you planning to test the service with the minister responsible for it before the service moves into Live?
+      * How are you planning to test the service with the minister responsible for it before the service moves into Live?
     evidence: |
-      Service Manager able to
+      Service Manager able to:
       
       - confirm the minister responsible for the service will test it before the service moves into Live
