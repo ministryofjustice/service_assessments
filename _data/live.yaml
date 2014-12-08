@@ -326,30 +326,32 @@ Assisted Digital and Channel Shift:
   10:
     criteria: Put appropriate assisted digital support in place that’s aimed towards those who genuinely need it
     prompts: |
-      * How have you tested your AD support during the beta and what have you learnt?
-      * How have you iterated your AD support during the beta?
-      * How does your AD support meet user needs and provide value for money?
-      * What is your plan for iterating your AD support after the service has gone live?
-      * How are you measuring performance of your AD support e.g. user satisfaction, increase in digital skills and decrease in the number of AD users?
+      * How did you test and iterate your assisted digital support in beta, in response to user research and performance measurement?
+      * Can you explain how the AD support you are putting in place meets user needs?
+      * How many transactions are you expecting and how much does your AD support cost?
+      * How will you measure the performance of your AD support when live?
+      * How will you iterate your AD support in response to user testing and feedback when the service is live?
 
     evidence: |
       Service Manager able to:
 
-        - explain how they have tested and iterated their AD support during the beta and what they have learnt for the live service
-        - explain how their AD support meets user needs and provides value for money.
-          * show that costs and number of transactions are in line with estimates;
-          * AD users are aware of support and can access it easily;
-          * AD support is consistently and clearly branded as a government service;
-          * wait times for AD support are low by channel;
-          * high proportion of AD users complete the transaction;
-          * number of AD users has decreased;
-          * the service is trusted by AD users;
-          * positive feedback from users and experts;
-          * good end-to-end user experience;
-          * joined up and consistent support across central government transactions;
-          * AD support meets legal requirements such as language, data protection and accessibility
-        - explain their plans to iterate their AD support once the service has gone live
-        - explain how they will measure user satisfaction for their AD support; increase in AD users' digital skills and/or confidence to use the digital service independently, decrease in the number of people using AD support
+        - Explain how you tested and iterated your AD support during beta, including identity assurance
+        - Explain how you measured performance and what the results were, including user satisfaction with the AD support and confidence that the AD support provider was trustworthy
+        - Give examples of positive feedback from users and experts
+        - Explain how the design of the following elements of each channel of the service’s AD support are meeting user needs:
+          * channels and providers
+          * user awareness
+          * user journeys (including identity assurance and needs assessment)
+          * availability of and wait times for support
+          * availability of appropriate technology
+          * approach to users’ privacy
+          * consistency with similar government transactions
+          * approach to digital inclusion
+          * ability to forecast and respond to changing demand
+        - Show that costs per minute are in line with estimates, per channel
+        - Give details of expected number of transactions per year, per channel
+        - Explain how you will measure the performance of your AD support, including user satisfaction and decrease in the number of AD users
+        - Explain your plans to enable iteration of your AD support once the service has gone live
 
   11:
     criteria: Plan (with GDS) for the phasing out of any existing alternative channels, where appropriate

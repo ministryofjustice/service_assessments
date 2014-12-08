@@ -256,23 +256,18 @@ Assisted Digital and Channel Shift:
   10:
     criteria: Put appropriate assisted digital support in place that’s aimed towards those who genuinely need it
     prompts: |
-      * What user research have you conducted with AD users and what have you learnt?
-      * How many AD transactions are you expecting and what is this number as a proportion of total transactions?
-      * What are the barriers for your AD users to use the digital service independently?
-      * How are you planning to test your AD support before the service moves into beta on a service.gov.uk domain?
-      * How are you gathering user insights from your AD users and how are you planning to use them to iterate your AD support?
-      * Have you identified user personas for your AD users? And have you identified their user journeys for AD support?
-      * How will you fund your AD support and will it be free to the user?
+      * What user research have you conducted with AD users and what have you learnt that will inform the design of your AD support?
+      * What are your plans to test, measure and iterate your AD support during beta?
+      * Will your AD support be sustainably funded and free to the user?
     evidence: |
       Service Manager able to:
-        
-      - explain what they have learnt from conducting user research with AD users of the service
-      - explain the number of AD transactions they expect, and what that is as a proportion of total transactions for the service
-      - explain what the barriers are for AD users to use the digital service independently
-      - explain how they plan to test their AD support before the service moves to beta on a service.gov.uk domain
-      - explain how they will gather user insights from user research with AD users and use it to iterate their AD support before the service moves to beta on a service.gov.uk domain
-      - explain the user journeys for their relevant user personas (including ID assurance if required). This should include estimated of the number of AD transactions for web chat, telephone and face by face support
-      - explain how they plan to ensure AD support is sustainably funded and is free to the user
+
+      - Explain what types of research, when, with how many people, including recruitment specification
+      - Explain how the AD support might be tailored according to research carried out so far
+      - Explain why, if relevant, your service does not have to provide AD in line with GDS policy, and what alternative will be in place for any AD users
+      - Explain how you will test, measure and iterate your AD support during beta with AD users for the end-to-end user journey, including identity assurance
+      - Explain how you plan to ensure AD support is sustainably funded (including support not delivered by government) and free to the user
+
   11:
     criteria: Plan (with GDS) for the phasing out of any existing alternative channels, where appropriate
     prompts: |
