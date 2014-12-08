@@ -35,11 +35,15 @@ moj.Modules.functions = {
 
       };
 
-
-
     });
 
 
+    var $HashLinks_H3 = $('H3').append(' <a href="#fragment"> # </a>')
+    var $HashLinks_H4 = $('H4').append(' <a href="#fragment"> # </a>')
+
+
+
   }
+
 };
 // }());
