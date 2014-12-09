@@ -39,7 +39,7 @@ moj.Modules.functions = {
 
     $('h3').append(function(index, element) {
       //for each h3 found append "" link
-      return '<a href="#HashLink-' + index + '" class="HashLink"> #</a>';
+      return '<a href="#H3_HashLink-' + index + '" class="HashLink"> #</a>';
     }).attr('id', function(index) {
       //for each h3 
       return 'HashLink-' + index;
@@ -47,7 +47,7 @@ moj.Modules.functions = {
 
     $('h4').append(function(index, element) {
       //for each h4 found append "" link
-      return '<a href="#HashLink-' + index + '" class="HashLink"> #</a>';
+      return '<a href="#H4_HashLink-' + index + '" class="HashLink"> #</a>';
     }).attr('id', function(index) {
       //for each h4 
       return 'HashLink-' + index;
@@ -55,6 +55,14 @@ moj.Modules.functions = {
 
 
   }
+
+
+// On load get document.location.hash
+// Get element by ID of the hash
+// Find that elements parent collapsed element
+// trigger the expand method of that element
+
+
 
 };
 // }());
