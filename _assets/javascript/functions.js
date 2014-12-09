@@ -37,10 +37,21 @@ moj.Modules.functions = {
 
     });
 
+    $('h3').append(function(index, element) {
+      //for each h3 found append "" link
+      return '<a href="#HashLink-' + index + '" class="HashLink"> #</a>';
+    }).attr('id', function(index) {
+      //for each h3 
+      return 'HashLink-' + index;
+    });
 
-    var $HashLinks_H3 = $('H3').append(' <a href="#fragment"> # </a>')
-    var $HashLinks_H4 = $('H4').append(' <a href="#fragment"> # </a>')
-
+    $('h4').append(function(index, element) {
+      //for each h4 found append "" link
+      return '<a href="#HashLink-' + index + '" class="HashLink"> #</a>';
+    }).attr('id', function(index) {
+      //for each h4 
+      return 'HashLink-' + index;
+    });
 
 
   }
