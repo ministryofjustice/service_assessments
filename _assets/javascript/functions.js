@@ -62,17 +62,17 @@
 
     expand: function() {
 
-
-
       $('#Expand').click(function() {
 
-        console.log('test')
-        $('#content > *').show();
+        var $input = $(this).toggleClass('showall');
 
+        if ($input.hasClass('showall')) {
+          $('#content > *').show();
+        } else {
+          $('#content > h3,h4,p,#content >ul,hr').hide();
+        }
       });
-
     }
-
 
   }; //moj.M odules.functions
 }());
