@@ -6,9 +6,10 @@
       this.cacheEls();
       this.bindEvents();
       this.render();
+      this.expand();
     },
 
-    cacheEls: function () {
+    cacheEls: function() {
       this.$allResponses = $('h2').nextUntil('h2'); //cache the elements we are going to use the most, do it once. 
     },
 
@@ -37,10 +38,11 @@
         $response.show();
         $element.addClass('is-open');
       };
+
     }, //end toggle section
 
 
-    render: function () { 
+    render: function() {
       this.$allResponses.hide(); // new call to render the h3/h4 href below...
 
       $('h3').append(function(index, el) {
@@ -56,8 +58,21 @@
       if (hash) {
         $(hash).prevAll('h2').first().click();
       }
-    } //end render
+    }, //end render
+
+    expand: function() {
+
+      $('#Expand').click(function() {
+
+        var $input = $(this).toggleClass('showall');
+
+        if ($input.hasClass('showall')) {
+          $('#content > *').show();
+        } else {
+          $('#content').find('h3, h4, p, ul, hr').hide();
+        }
+      });
+    }
 
   }; //moj.M odules.functions
 }());
-
