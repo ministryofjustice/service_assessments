@@ -69,7 +69,6 @@
         if ($input.hasClass('showall')) {
           $('#content > *').show();
         } else {
-          // $('#content > h3,h4,p,#content >ul,hr').hide();
           $('#content').find('h3, h4, p, ul, hr').hide();
         }
       });
