@@ -19,7 +19,7 @@ User Needs:
       - explain the user research methods, frequency of testing (normally with at least 5 users for each sprint), types of recruits and where they were recruited from, how the full service has been tested and in what environments, resources available and communication process into the service team to inform the design
       - explain what has been learnt about users and user needs, including population demographics and digital proficiency profiles
       - give an example of a user story, the need it relates to and how that user need was determined
-      - explain how the service was name was determined through user research
+      - explain how the service name was determined through user research
   20:
     criteria: Put a plan in place for ongoing user research and usability testing to continuously seek feedback from users
     prompts: |
