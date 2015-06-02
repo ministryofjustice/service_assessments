@@ -15,8 +15,11 @@ markdown: kramdown
 kramdown:
  auto_id_stripping: true
 
-exclude: 
+exclude:
   - vendor
   - Gemfile
   - Gemfile.lock
   - s3_website.yml
+
+gems:
+  - jekyll-redirect-from

@@ -2,6 +2,8 @@
 layout: default
 title: Alpha
 version: v1
+redirect_from:
+  - /phases/alpha.html
 ---
 
 ## User Needs

@@ -2,6 +2,9 @@
 layout: default
 title: Beta
 version: v1
+redirect_from:
+  - /phases/beta.html
+
 ---
 
 ## User Needs

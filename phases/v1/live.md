@@ -2,6 +2,8 @@
 layout: default
 title: Live
 version: v1
+redirect_from:
+  - /phases/live.html
 ---
 
 ## User Needs
@@ -626,6 +628,4 @@ Test the service from beginning to end with the minister responsible for it
 Service Manager able to:
 
 * Show a video of the responsible minister testing the service or provide written confirmation signed by the responsible minister to confirm they have tested the service
-
-
 
