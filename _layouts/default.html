@@ -7,12 +7,14 @@
     <script type="text/javascript">
       (function(){if(navigator.userAgent.match(/IEMobile\/10\.0/)){var d=document,c="appendChild",a=d.createElement("style");a[c](d.createTextNode("@-ms-viewport{width:auto!important}"));d.getElementsByTagName("head")[0][c](a);}})();
     </script>
-    
+
     {% css_asset_tag global %}
     - /_assets/moj_internal_template/app/assets/stylesheets/moj-internal.scss
+    - /_assets/foundation/css/normalize.css
+    - /_assets/foundation/css/foundation.min.css
     - _sass/main.scss
     {% endcss_asset_tag %}
-    
+
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
   </head>
@@ -81,10 +83,11 @@
     <!--end footer-->
 
     <div id="global-app-error" class="app-error hidden"></div>
-  
+
   {% javascript_asset_tag global %}
   - /_assets/moj_internal_template/app/assets/javascripts/vendor/jquery/jquery-1.11.0.min.js
   - /_assets/moj_internal_template/app/assets/javascripts/moj.js
+  - /_assets/foundation/js/foundation.min.js
   - /_assets/javascript/functions.js
   {% endjavascript_asset_tag %}
   <script type="text/javascript">$(moj.init);</script>
