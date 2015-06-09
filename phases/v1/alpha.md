@@ -28,10 +28,10 @@ Understand user needs. Research to develop a deep knowledge of who the service u
 
 Service Manager able to:
 
-* explain clearly what user research has been completed during discover and alpha
-* explain the user research methods, frequency of testing (normally with at least 5 users for each sprint), types of recruits and where they were recruited from, resources available and communication process into the service team to inform the design
-* explain what has been learnt about users and user needs, including population demographics and digital proficiency profiles
-* give an example of a user story, the need it relates to and how that user need was determined
+* Explain clearly what user research has been completed during discover and alpha
+* Explain the user research methods, frequency of testing (normally with at least 5 users for each sprint), types of recruits and where they were recruited from, resources available and communication process into the service team to inform the design
+* Explain what has been learnt about users and user needs, including population demographics and digital proficiency profiles
+* Give an example of a user story, the need it relates to and how that user need was determined
 
 ### 20
 
@@ -52,11 +52,11 @@ Put a plan in place for ongoing user research and usability testing to continuou
 
 Service manager able to:
 
-* explain what they learnt during the alpha and how this was incorporated into the service design
-* explain who is doing user research and usability testing and how it is being resourced
-* explain their testing environment
-* explain how often they are doing user research and usability testing
-* explain how the results from user research and usability testing are incorporated into the design of the service
+* Explain what they learnt during the alpha and how this was incorporated into the service design
+* Explain who is doing user research and usability testing and how it is being resourced
+* Explain their testing environment
+* Explain how often they are doing user research and usability testing
+* Explain how the results from user research and usability testing are incorporated into the design of the service
 
 ## The Team
 
@@ -78,11 +78,11 @@ Put in place a sustainable multidisciplinary team that can design, build and ope
 
 Service Manager able to:
 
-* clearly explain the structure of the team for the alpha (the following should be either in the team or available to the team depending on the scale of the service - service manager, product manager, delivery manager, tech lead, assisted digital lead, designer, user researcher, developers, content designer, technical architect, web ops, product analyst)
-* explain how they are empowered to make decisions during the alpha
-* explain where they have gaps in the team and explain how they will address them
-* show that there is a separation of key roles (i.e. the same person is not performing multiple roles within the service)
-* there is at least one user researcher working at least 3 days per week
+* Clearly explain the structure of the team for the alpha (the following should be either in the team or available to the team depending on the scale of the service - service manager, product manager, delivery manager, tech lead, assisted digital lead, designer, user researcher, developers, content designer, technical architect, web ops, product analyst)
+* Explain how they are empowered to make decisions during the alpha
+* Explain where they have gaps in the team and explain how they will address them
+* Show that there is a separation of key roles (i.e. the same person is not performing multiple roles within the service)
+* There is at least one user researcher working at least 3 days per week
 
 ### 6
 
@@ -102,10 +102,10 @@ Build the service using the agile, iterative and user-centred methods set out in
 
 Service Manager able to:
 
-* clearly explain how the service is working in an agile way, using agile tools and techniques
-* explain how the service has reviewed and iterated their processes to be responsive
-* explain how the team are using agile tools and techniques to communicate within the team
-* give an example of how the service has responded to user research and usability testing
+* Clearly explain how the service is working in an agile way, using agile tools and techniques
+* Explain how the service has reviewed and iterated their processes to be responsive
+* Explain how the team are using agile tools and techniques to communicate within the team
+* Give an example of how the service has responded to user research and usability testing
 
 ## Security, Privacy, Tools and Standards
 
@@ -133,15 +133,15 @@ Evaluate what user data and information the service will be providing or storing
 
 Service Manager able to:
 
-* show that the security of the service is owned by the team under the service manager and that there has been proportionate external validation
-* explain who they have engaged with
-* confirm who the SIRO, Information Asset Owner and Accreditor are for the project
-* explain what the risk appetite is for the project
-* explain the architecture of the service and why they have chosen it
-* confirm they have done a risk assessment and explain who has signed off the risks
-* explain the level of security of and why it was chosen
-* confirm service assessed against RSDOPS to identify the risks and the extent to which the service needs to know that users are who they say they are
-* identified if the service needs to use identity assurance and if so what type/level.
+* Show that the security of the service is owned by the team under the service manager and that there has been proportionate external validation
+* Explain who they have engaged with
+* Confirm who the SIRO, Information Asset Owner and Accreditor are for the project
+* Explain what the risk appetite is for the project
+* Explain the architecture of the service and why they have chosen it
+* Confirm they have done a risk assessment and explain who has signed off the risks
+* Explain the level of security of and why it was chosen
+* Confirm service assessed against RSDOPS to identify the risks and the extent to which the service needs to know that users are who they say they are
+* Identified if the service needs to use identity assurance and if so what type/level.
 
 ### 4
 
@@ -159,10 +159,10 @@ Evaluate the privacy risks to make sure that personal data collection requiremen
 
 Service Manager able to:
 
-* explain how the service complies with the Data Protection Act
-* explain data flows i.e. what data goes where and why
-* confirm who the data controller is for the service
-* explain how the service complies with cookie policy
+* Explain how the service complies with the Data Protection Act
+* Explain data flows i.e. what data goes where and why
+* Confirm who the data controller is for the service
+* Explain how the service complies with cookie policy
 
 ### 5
 
@@ -183,10 +183,10 @@ Evaluate what tools and systems will be used to build, host, operate and measure
 
 Service Manager able to:
 
-* explain what technology and tools the service has bought, built and uses for the alpha and why they have chosen them
-* explain how they are avoiding lock in, how their contracts are suitably flexible and how they are delivering value for money
-* explain what procurement vehicles they have used and why
-* explain what changes they are planning to make
+* Explain what technology and tools the service has bought, built and uses for the alpha and why they have chosen them
+* Explain how they are avoiding lock in, how their contracts are suitably flexible and how they are delivering value for money
+* Explain what procurement vehicles they have used and why
+* Explain what changes they are planning to make
 
 ### 15
 
@@ -203,9 +203,9 @@ Make all new source code open and reuseable, and publish it under appropriate li
 
 Service manager able to:
 
-* explain their plan for making all new source code open and reusable during the alpha
-* confirm that the service owns the intellectual property or give a valid explanation why not
-* explain how other departments will be able to reuse their code during alpha
+* Explain their plan for making all new source code open and reusable during the alpha
+* Confirm that the service owns the intellectual property or give a valid explanation why not
+* Explain how other departments will be able to reuse their code during alpha
 
 ### 16
 
@@ -224,10 +224,10 @@ Use open standards and common government platforms (eg identity assurance) where
 
 Service Manager able to:
 
-* explain what open standards the service is using during the alpha
-* explain how they are complying with the open standards board's decisions during the alpha
-* explain how they are avoiding imposing vendor technology decisions on users and reducing lock-in during the alpha
-* confirm that they have engaged with the identity assurance team in GDS
+* Explain what open standards the service is using during the alpha
+* Explain how they are complying with the open standards board's decisions during the alpha
+* Explain how they are avoiding imposing vendor technology decisions on users and reducing lock-in during the alpha
+* Confirm that they have engaged with the identity assurance team in GDS
 
 ### 17
 
@@ -246,11 +246,11 @@ Be able to test the end-to-end service in an environment identical to that of th
 
 Service Manager able to:
 
-* explain how they deploy during the alpha and test before deploying
-* explain how and where they do performance testing for the alpha service
-* explain how they preview new features before deploying them to the alpha service
-* explain their ongoing penetration testing during the alpha
-* explain their browser and device testing during the alpha
+* Explain how they deploy during the alpha and test before deploying
+* Explain how and where they do performance testing for the alpha service
+* Explain how they preview new features before deploying them to the alpha service
+* Explain their ongoing penetration testing during the alpha
+* Explain their browser and device testing during the alpha
 
 ### 25
 
@@ -270,11 +270,11 @@ Make a plan for the event of the service being taken temporarily offline.
 
 Service manager able to:
 
-* explain their disaster recovery plan for the alpha, including understanding their suppliers disaster recovery capability where appropriate
-* explain how the service would deal with a forced shutdown in the alpha
-* explain how they will deal with a DDoS attack and other malicious attacks in the alpha
-* explain what load testing they have done for the alpha
-* confirm they are aware of GovCertUK and are aware of how to report an incident
+* Explain their disaster recovery plan for the alpha, including understanding their suppliers disaster recovery capability where appropriate
+* Explain how the service would deal with a forced shutdown in the alpha
+* Explain how they will deal with a DDoS attack and other malicious attacks in the alpha
+* Explain what load testing they have done for the alpha
+* Confirm they are aware of GovCertUK and are aware of how to report an incident
 
 
 ## Improving the Service
@@ -351,8 +351,8 @@ Integrate the service with any non-digital sections required for legal reasons
 
 Service Manager able to:
 
-* explain why any non-digital steps are required for the alpha service
-* how any non-digital steps seamlessly link to the digital service and how they have tested them with users during the alpha
+* Explain why any non-digital steps are required for the alpha service
+* How any non-digital steps seamlessly link to the digital service and how they have tested them with users during the alpha
 * Identify any policy constraints or legislative barriers that are preventing the service from been an end to end digital service
 
 ### 13
@@ -372,8 +372,8 @@ Have you used the GDS style guide during the alpha?
 
 Service Manager able to:
 
-* explain how the service will use the GOV.UK design patterns, front end tool kit and GDS style guide during the alpha
-* explain what design, content design and front end developer support was available to the team during the alpha
+* Explain how the service will use the GOV.UK design patterns, front end tool kit and GDS style guide during the alpha
+* Explain what design, content design and front end developer support was available to the team during the alpha
 
 ## Assisted Digital and Channel Shift
 
@@ -419,13 +419,13 @@ Plan (with GDS) for the phasing out of any existing alternative channels, where 
 
 Service Manager able to:
 
-* explain their plan for increasing digital take up
-* explain what other channels the service is delivered through
-* explain what data they collect on their other channels
-* analytical data on service usage for each channel
+* Explain their plan for increasing digital take up
+* Explain what other channels the service is delivered through
+* Explain what data they collect on their other channels
+* Analytical data on service usage for each channel
 * A list of delivery 'providers' and the nature of the services they provide.
 * Customer insight from: research with real users, user demographics, attitudes, behaviours and channel preferences and customer journey maps
-* explain how each and every channels meet different users’ needs
+* Explain how each and every channels meet different users’ needs
 
 ## Analysis and Benchmarking
 
@@ -450,9 +450,9 @@ Analyse the prototype service’s success, and translate user feedback into feat
 
 Service Manager able to:
 
-* talk clearly about user research reports, indicating where a service required remediation
-* talk through substantial iteration in the design and content of the service during the alpha
-* explain how prototype works as end to end user journey for all user needs, including those with AD needs
+* Talk clearly about user research reports, indicating where a service required remediation
+* Talk through substantial iteration in the design and content of the service during the alpha
+* Explain how prototype works as end to end user journey for all user needs, including those with AD needs
 
 ### 18
 
@@ -471,9 +471,9 @@ Use analytics tools that collect performance data
 
 Service Manager able to:
 
-* explain what analytics tool is installed for the alpha and that the SIRO is happy with this approach
-* explain who in the team is responsible for identifying actionable data insights during the alpha
-* explain what additional KPI's they are tracking during the alpha
+* Explain what analytics tool is installed for the alpha and that the SIRO is happy with this approach
+* Explain who in the team is responsible for identifying actionable data insights during the alpha
+* Explain what additional KPI's they are tracking during the alpha
 
 ### 7
 
@@ -518,11 +518,11 @@ Make a plan (with supporting evidence) to achieve a high digital take-up and ass
 
 Service Manager able to:
 
-* show they have made contact with the performance platform and understand the role of stageprompt (or an equivalent event tracking) in getting their completion rate data on their performance dashboard
-* explain how they currently measure the performance of the old service to provide a baseline for the new service
-* explain their plan for increasing digital take-up
-* explain how they measure the usage volumes for the current service(across channels) and explain how this information will be made available to Performance Platform team.
-* explain how usage trends and insights drawn from similar services are informing their digital take-up plans
+* Show they have made contact with the performance platform and understand the role of stageprompt (or an equivalent event tracking) in getting their completion rate data on their performance dashboard
+* Explain how they currently measure the performance of the old service to provide a baseline for the new service
+* Explain their plan for increasing digital take-up
+* Explain how they measure the usage volumes for the current service(across channels) and explain how this information will be made available to Performance Platform team.
+* Explain how usage trends and insights drawn from similar services are informing their digital take-up plans
 
 ## Testing with the Minister
 
@@ -539,4 +539,4 @@ Test the service from beginning to end with the minister responsible for it
 
 Service Manager able to:
 
-* confirm the minister responsible for the service will test it before the service moves into Live
+* Confirm the minister responsible for the service will test it before the service moves into Live

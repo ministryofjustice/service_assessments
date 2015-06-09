@@ -48,10 +48,10 @@ It is very useful to include your user researcher in the team presenting at the 
 
 The user researcher and/or service manager should be able to answer questions from the assessment panel by showing and referring to some or all of these artefacts of user research (for the onscreen service and assisted digital support), which include:
 
-* user research output of discovery that describes how users (including assisted digital users) are currently meeting the needs that this service will meet, (e.g. a customer journey map or user needs map), key pain points in the current journey and description of the user research that has informed this output.
-* stories of people you have met, persona, profiles or some other way of telling the stories of the users (including assisted digital users) who will be using this service in the future.
-* the user needs you have identified for this service, including any specific needs of assisted digital users.
-* any key insights you have gained from the research that describes significant service design challenges for this project to overcome.
+* User research output of discovery that describes how users (including assisted digital users) are currently meeting the needs that this service will meet, (e.g. a customer journey map or user needs map), key pain points in the current journey and description of the user research that has informed this output.
+* Stories of people you have met, persona, profiles or some other way of telling the stories of the users (including assisted digital users) who will be using this service in the future.
+* The user needs you have identified for this service, including any specific needs of assisted digital users.
+* Any key insights you have gained from the research that describes significant service design challenges for this project to overcome.
 
 
 ## Point 2: Put a plan in place for ongoing user research and usability testing to continuously seek feedback from users to improve the service.
@@ -115,11 +115,11 @@ Service Manager able to:
 
 Service Manager able to
 
-* clearly explain how the service is working in an agile way, using agile tools and techniques.
-* explain how the service has reviewed and iterated their processes to be responsive.
-* explain how the team are using agile tools and techniques to communicate within the team.
-* give an example of how the service has responded to user research and usability testing.
-* show that governance is proportional, not imposed, is based on clear and measurable goals, “go and see” rather than “wait and hear”, a clear focus on managing change and risk in real time rather than at arbitrary points, human centred not process centred.
+* Clearly explain how the service is working in an agile way, using agile tools and techniques.
+* Explain how the service has reviewed and iterated their processes to be responsive.
+* Explain how the team are using agile tools and techniques to communicate within the team.
+* Give an example of how the service has responded to user research and usability testing.
+* Show that governance is proportional, not imposed, is based on clear and measurable goals, “go and see” rather than “wait and hear”, a clear focus on managing change and risk in real time rather than at arbitrary points, human centred not process centred.
 
 ## Point 5: Build a service that can be iterated and improved on a frequent basis and make sure that you have the capacity, resources and technical flexibility to do so.
 
@@ -134,10 +134,10 @@ Service Manager able to
 
 Service Manager able to:
 
-* explain what they have built in alpha and why.
-* explain the cycle time of a story during alpha.
-* explain how they are analysing and reacting to user research.
-* explain how they are derisking any technical challenges.
+* Explain what they have built in alpha and why.
+* Explain the cycle time of a story during alpha.
+* Explain how they are analysing and reacting to user research.
+* Explain how they are derisking any technical challenges.
 
 ## Point 6: Evaluate what tools and systems will be used to build, host, operate and measure the service, and how to procure them.
 
@@ -150,8 +150,8 @@ Describe the development toolchain that you would like to select for beta and wh
 
 Service Manager able to:
 
-* describe the languages, frameworks, and other technical choices they’ve made in alpha, and how this will affect the decisions they make in beta.
-* describe the development toolchain they would like to select for beta and why.
+* Describe the languages, frameworks, and other technical choices they’ve made in alpha, and how this will affect the decisions they make in beta.
+* Describe the development toolchain they would like to select for beta and why.
 
 
 ## Point 7: Evaluate what user data and information the digital service will be providing or storing, and address the security level, legal responsibilities, privacy issues and risks associated with the service (consulting with experts where appropriate).
@@ -167,8 +167,8 @@ What fraud vectors exist and what controls are you prototyping?
 
 Service Manager able to:
 
-* describe the perceived threats to the service and explain how they are designing the prototype to mitigate them.
-* explain what fraud vectors exist and what controls they are prototyping.
+* Describe the perceived threats to the service and explain how they are designing the prototype to mitigate them.
+* Explain what fraud vectors exist and what controls they are prototyping.
 
 ## Point 8: Make all new source code open and reusable, and publish it under appropriate licences (or provide a convincing explanation as to why this cannot be done for specific subsets of the source code).
 
@@ -182,9 +182,9 @@ Service Manager able to:
 
 Service Manager able to:
 
-* explain their plan for making all new source code open and reusable.
-* confirm that they own the intellectual property.
-* explain how a team in another department can reuse their code.
+* Explain their plan for making all new source code open and reusable.
+* Confirm that they own the intellectual property.
+* Explain how a team in another department can reuse their code.
 
 ## Point 9: Use open standards and common government platforms where available.
 
@@ -198,9 +198,9 @@ Service Manager able to:
 
 Service Manager able to:
 
-* explain how they are avoiding locking themselves into any proprietary solutions where an open standard is available.
-* describe what common platforms they have identified that their intended system could use.
-* describe any common user needs they have identified and how how they are going to address them in a consistent manner with the rest of government.
+* Explain how they are avoiding locking themselves into any proprietary solutions where an open standard is available.
+* Describe what common platforms they have identified that their intended system could use.
+* Describe any common user needs they have identified and how how they are going to address them in a consistent manner with the rest of government.
 
 ## Point 10: Be able to test the end-to-end service in an environment identical to that of the live version, including on all common browsers and devices, and using dummy accounts and a representative sample of users.
 
@@ -214,9 +214,9 @@ Service Manager able to:
 
 Service Manager able to:
 
-* explain what environments they have.
-* explain what the common devices and browsers are for users of their service.
-* explain how they have designed the system around the common devices and browsers for users of their service.
+* Explain what environments they have.
+* Explain what the common devices and browsers are for users of their service.
+* Explain how they have designed the system around the common devices and browsers for users of their service.
 
 ## Point 11: Make a plan for the event of the digital service being taken temporarily offline.
 
@@ -228,7 +228,7 @@ Service Manager able to:
 
 Service Manager able to:
 
-* explain the impact upon the user of the proposed service being unavailable.
+* Explain the impact upon the user of the proposed service being unavailable.
 
 ## Point 12: Create a service that is simple and intuitive enough that users succeed first time.
 
@@ -248,10 +248,10 @@ Service Manager able to:
 
 Service Manager able to:
 
-* explain how they collected evidence that users of the alpha service are, in the majority of cases, succeeding first time.
-* explain the service in a simple way to the panel.
-* talk through substantial iteration in the design and content of the service during alpha.
-* explain how prototype works as end-to-end user journey for all user needs, including those with assissted digital needs.
+* Explain how they collected evidence that users of the alpha service are, in the majority of cases, succeeding first time.
+* Explain the service in a simple way to the panel.
+* Talk through substantial iteration in the design and content of the service during alpha.
+* Explain how prototype works as end-to-end user journey for all user needs, including those with assissted digital needs.
 
 ## Point 13: Build a service consistent with the user experience of the rest of GOV.UK including using the design patterns and style guide.
 
@@ -266,8 +266,8 @@ Service Manager able to:
 
 Service Manager able to:
 
-* explain how the service has used the GOV.UK design patterns, front-end tool kit and GDS style guide during alpha.
-* explain what design, content design and front-end developer support was available to the team during alpha.
+* Explain how the service has used the GOV.UK design patterns, front-end tool kit and GDS style guide during alpha.
+* Explain what design, content design and front-end developer support was available to the team during alpha.
 
 ## Point 14: Encourage all users to use the digital service (with assisted digital support if required), alongside an appropriate plan to phase out non-digital channels/services.
 
@@ -283,13 +283,13 @@ Service Manager able to:
 ### Evidence
 Service Manager able to:
 
-* explain their plan for increasing digital take up.
-* explain what other channels the service is delivered through.
-* explain what data they collect on their other channels.
-* explain how they collect analytical data on service usage for each channel.
-* explain which organisations/groups help your user with the existing digital or non-digital services.
-* show customer insight from: research with real users, user demographics, attitudes, behaviours and channel preferences, and customer journey maps.
-* explain how each channel meets different users’ needs.
+* Explain their plan for increasing digital take up.
+* Explain what other channels the service is delivered through.
+* Explain what data they collect on their other channels.
+* Explain how they collect analytical data on service usage for each channel.
+* Explain which organisations/groups help your user with the existing digital or non-digital services.
+* Show customer insight from: research with real users, user demographics, attitudes, behaviours and channel preferences, and customer journey maps.
+* Explain how each channel meets different users’ needs.
 
 ## Point 15: Use tools for analysis that collect performance data. Use this data to analyse the success of the service and to translate this into features and tasks for the next phase of development.
 
@@ -303,11 +303,11 @@ Service Manager able to:
 
 Service Manager able to:
 
-* explain what data sources and analysis were undertaken in discovery.
-* explain how the shape of the service has influenced the choice of metrics, data points and data sources.
-* explain who in the team is responsible for identifying actionable data insights during alpha, including assisted digital support.
-* talk clearly about evidence from qualitative and quantitative data, what they learned from these sources and what changes to user needs/improvements they identified.
-* talk through how these were prioritised and what features were changed or implemented.
+* Explain what data sources and analysis were undertaken in discovery.
+* Explain how the shape of the service has influenced the choice of metrics, data points and data sources.
+* Explain who in the team is responsible for identifying actionable data insights during alpha, including assisted digital support.
+* Talk clearly about evidence from qualitative and quantitative data, what they learned from these sources and what changes to user needs/improvements they identified.
+* Talk through how these were prioritised and what features were changed or implemented.
 
 ## Point 16: Identify performance indicators for the service, including the 4 mandatory key performance indicators (KPIs) defined in the manual. Establish a benchmark for each metric and make a plan to enable improvements.
 
@@ -323,22 +323,22 @@ Service Manager able to:
 
 Service Manager able to:
 
-* demonstrate how they currently measure the performance of the existing service (if applicable) and which measures will provide a baseline for the new service and why they have been chosen.
-* explain measures for the new service, including dependent transactions (e.g. authentication, search etc), and why they have been chosen.
-* identify where the data for the metrics will come from.
-* explain their plan and scope for measuring cost per transaction (or equivalent*).
-* explain how user satisfaction data will captured, and the choice of benchmark.
-* explain how completion rate (or equivalent*) data will be captured, and the choice of benchmark, including the selection of start and end point and eligibility and transaction stages.
-* explain how usage volumes for the existing (if applicable) and new services (across channels) are or will be measured and how usage trends and insights drawn from similar services are informing their digital take-up plans.
-* explain their plan or benchmark for each additional metric identified for the new service.
-* demonstrate they have registered the service with the performance platform and validated that the platform can support the metrics the service dashboard should present.
+* Demonstrate how they currently measure the performance of the existing service (if applicable) and which measures will provide a baseline for the new service and why they have been chosen.
+* Explain measures for the new service, including dependent transactions (e.g. authentication, search etc), and why they have been chosen.
+* Identify where the data for the metrics will come from.
+* Explain their plan and scope for measuring cost per transaction (or equivalent*).
+* Explain how user satisfaction data will captured, and the choice of benchmark.
+* Explain how completion rate (or equivalent*) data will be captured, and the choice of benchmark, including the selection of start and end point and eligibility and transaction stages.
+* Explain how usage volumes for the existing (if applicable) and new services (across channels) are or will be measured and how usage trends and insights drawn from similar services are informing their digital take-up plans.
+* Explain their plan or benchmark for each additional metric identified for the new service.
+* Demonstrate they have registered the service with the performance platform and validated that the platform can support the metrics the service dashboard should present.
 
 <aside>
 * For non-transactional user journeys
 </aside>
 
 
-## Point 17	Report performance data on the Performance Platform.
+## Point 17: Report performance data on the Performance Platform.
 
 ### Prompts:
 
@@ -348,7 +348,7 @@ Service Manager able to:
 
 Service Manager able to:
 
-* demonstrate they have registered the service with the Performance Platform and validated that the platform can support the metrics the service dashboard should present.
+* Demonstrate they have registered the service with the Performance Platform and validated that the platform can support the metrics the service dashboard should present.
 
 ## Point 18: Test the service from beginning to end with the minister responsible for it.
 
@@ -360,5 +360,5 @@ How are you planning to test the service with the minister responsible for it be
 
 Service Manager able to:
 
-* confirm the minister responsible for the service will test it before the service moves into live.
+* Confirm the minister responsible for the service will test it before the service moves into live.
 

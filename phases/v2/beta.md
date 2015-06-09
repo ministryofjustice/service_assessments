@@ -49,14 +49,14 @@ It is very useful to include your user researcher in the team presenting at the 
 
 The user researcher and/or service manager should be able to answer questions from the assessment panel by showing and referring to some or all of these artefacts of user research (for the onscreen service and assisted digital support), which include:
 
-* user research output of discovery that describes how users (including assisted digital users) are currently meeting the needs that this service will meet, (e.g. a customer journey map or user needs map), key pain points in the current journey and description of the user research that has informed this output.
-* stories of people you have met, persona, profiles or some other way of telling the stories of the users (including assisted digital users) who will be using this service in the future.
-* the user needs you have identified for this service, including any specific needs of assisted digital users.
-* any key insights you have gained from the research that describes significant service design challenges for this project to overcome.
-* your research schedule for beta thus far (who you did research with, when and where, including assisted digital users).
-* user research videos and accompanying user research analysis outputs for recent sprints.
-* examples showing how the design of various elements in the service have changed from iteration to iteration in response to user research.
-* findings from user research undertaken for assisted digital support, with potential assisted digital users of the specific service, with the lowest level of digital skills, confidence and access and through offline methods.
+* User research output of discovery that describes how users (including assisted digital users) are currently meeting the needs that this service will meet, (e.g. a customer journey map or user needs map), key pain points in the current journey and description of the user research that has informed this output.
+* Stories of people you have met, persona, profiles or some other way of telling the stories of the users (including assisted digital users) who will be using this service in the future.
+* The user needs you have identified for this service, including any specific needs of assisted digital users.
+* Any key insights you have gained from the research that describes significant service design challenges for this project to overcome.
+* Your research schedule for beta thus far (who you did research with, when and where, including assisted digital users).
+* User research videos and accompanying user research analysis outputs for recent sprints.
+* Examples showing how the design of various elements in the service have changed from iteration to iteration in response to user research.
+* Findings from user research undertaken for assisted digital support, with potential assisted digital users of the specific service, with the lowest level of digital skills, confidence and access and through offline methods.
 
 ## Point 2: Put a plan in place for ongoing user research and usability testing to continuously seek feedback from users to improve the service.
 
@@ -83,10 +83,10 @@ What is the user research plan for the next stage and are there resources for us
 
 User Researcher and/or Service manager able to:
 
-* explain who is doing user research and usability testing and how it is being resourced.
-* talk through the research plan for the next stage of the project.
-* talk through the plan to ensure the research covers the full range of end users including accessibility and assisted digital users.
-* explain how the results from user research and usability testing are incorporated into the design of the service.
+* Explain who is doing user research and usability testing and how it is being resourced.
+* Talk through the research plan for the next stage of the project.
+* Talk through the plan to ensure the research covers the full range of end users including accessibility and assisted digital users.
+* Explain how the results from user research and usability testing are incorporated into the design of the service.
 
 ## Point 3: Put in place a sustainable multidisciplinary team that can design, build and operate the service, led by a suitably skilled and senior service manager with decision-making responsibility.
 
@@ -104,12 +104,12 @@ User Researcher and/or Service manager able to:
 
 Service Manager able to:
 
-* clearly explain the structure of the team during alpha and beta (the following should be either in the team or available to the team depending on the scale of the service - service manager, product manager, delivery manager, tech architect and lead, assisted digital lead, designer, user researcher, developers, content designer, web ops, product analyst).
-* show they were empowered to make decisions during alpha and are continuing to do so during beta.
-* show there are no gaps in the team or explain how they are addressing any gaps in beta.
-* explain how they will transfer knowledge from external people to the team during beta.
-* show that there is a separation of key roles (i.e. the same person is not performing multiple roles within the service).
-* there is at least one user researcher working at least 3 days per week.
+* Clearly explain the structure of the team during alpha and beta (the following should be either in the team or available to the team depending on the scale of the service - service manager, product manager, delivery manager, tech architect and lead, assisted digital lead, designer, user researcher, developers, content designer, web ops, product analyst).
+* Show they were empowered to make decisions during alpha and are continuing to do so during beta.
+* Show there are no gaps in the team or explain how they are addressing any gaps in beta.
+* Explain how they will transfer knowledge from external people to the team during beta.
+* Show that there is a separation of key roles (i.e. the same person is not performing multiple roles within the service).
+* There is at least one user researcher working at least 3 days per week.
 
 ## Point 4: Build the service using the agile, iterative and user-centred methods set out in the manual.
 
@@ -127,11 +127,11 @@ Service Manager able to:
 
 Service Manager able to
 
-* clearly explain how the service has worked in an agile way during alpha and will continue to do so in beta, giving examples of using agile tools and techniques.
-* explain how the service has reviewed and iterated their processes to be responsive during alpha.
-* explain how the team has used agile tools and techniques to communicate within the team.
-* give an example of how the service has responded to user research and usability testing during alpha.
-* show that governance is proportional, not imposed, is based on clear and measurable goals, “go and see” rather than “wait and hear”, a clear focus on managing change and risk in real time rather than at arbitrary points, human centred not process centred.
+* Clearly explain how the service has worked in an agile way during alpha and will continue to do so in beta, giving examples of using agile tools and techniques.
+* Explain how the service has reviewed and iterated their processes to be responsive during alpha.
+* Explain how the team has used agile tools and techniques to communicate within the team.
+* Give an example of how the service has responded to user research and usability testing during alpha.
+* Show that governance is proportional, not imposed, is based on clear and measurable goals, “go and see” rather than “wait and hear”, a clear focus on managing change and risk in real time rather than at arbitrary points, human centred not process centred.
 
 ## Point 5: Build a service that can be iterated and improved on a frequent basis and make sure that you have the capacity, resources and technical flexibility to do so.
 
@@ -167,12 +167,12 @@ Service Manager able to:
 
 Service Manager able to:
 
-* explain how they are managing the constraints that the selection of technology stack places on the service.
-* explain how they are managing the constraints that the selected development toolchain places on the service.
-* explain what they have bought and how they are ensuring they are getting value for money.
-* explain or demonstrate how they will know if the service is healthy.
-* explain the support arrangements they have in place during beta.
-* explain what decision making they have outsourced.
+* Explain how they are managing the constraints that the selection of technology stack places on the service.
+* Explain how they are managing the constraints that the selected development toolchain places on the service.
+* Explain what they have bought and how they are ensuring they are getting value for money.
+* Explain or demonstrate how they will know if the service is healthy.
+* Explain the support arrangements they have in place during beta.
+* Explain what decision making they have outsourced.
 
 ## Point 7: Evaluate what user data and information the digital service will be providing or storing, and address the security level, legal responsibilities, privacy issues and risks associated with the service (consulting with experts where appropriate).
 
@@ -189,12 +189,12 @@ Service Manager able to:
 
 Service Manager able to:
 
-* describe their team’s approach to security and risk management.
-* describe the threats to their service.
-* explain what fraud vectors exist and what controls they are putting in place.
-* describe their interactions with the business and information risk teams e.g. SIRO (Senior Information Risk Owner), IAO (Information Asset Owner), Data Guardians.
-* describe any outstanding legal concerns e.g. data protection or data sharing.
-* present their cookie and privacy policy and explain how they arrived at it.
+* Describe their team’s approach to security and risk management.
+* Describe the threats to their service.
+* Explain what fraud vectors exist and what controls they are putting in place.
+* Describe their interactions with the business and information risk teams e.g. SIRO (Senior Information Risk Owner), IAO (Information Asset Owner), Data Guardians.
+* Describe any outstanding legal concerns e.g. data protection or data sharing.
+* Present their cookie and privacy policy and explain how they arrived at it.
 
 ## Point 8: Make all new source code open and reusable, and publish it under appropriate licences (or provide a convincing explanation as to why this cannot be done for specific subsets of the source code).
 
@@ -210,12 +210,12 @@ Service Manager able to:
 
 Service Manager able to:
 
-* explain how they are making new source code open and reusable.
-* show their code in an open internet source code repository.
-* explain what licences they are using to release code during beta.
-* confirm that they own the intellectual property.
-* explain how a team in another department can reuse their code.
-* explain what code from other teams/service they are using.
+* Explain how they are making new source code open and reusable.
+* Show their code in an open internet source code repository.
+* Explain what licences they are using to release code during beta.
+* Confirm that they own the intellectual property.
+* Explain how a team in another department can reuse their code.
+* Explain what code from other teams/service they are using.
 
 ## Point 9: Use open standards and common government platforms where available.
 
@@ -232,12 +232,12 @@ Service Manager able to:
 
 Service Manager able to:
 
-* explain how they are avoiding locking themselves into any proprietary solutions where an open standard is available.
-* explain what the system outputs to users and in what format.
-* describe their use of common government platforms.
-* describe the integration mechanisms with any external systems.
-* explain any common user needs their service meets and what they are reusing from across government to help meet that user need.
-* explain what common data they hold and their open data responsibility.
+* Explain how they are avoiding locking themselves into any proprietary solutions where an open standard is available.
+* Explain what the system outputs to users and in what format.
+* Describe their use of common government platforms.
+* Describe the integration mechanisms with any external systems.
+* Explain any common user needs their service meets and what they are reusing from across government to help meet that user need.
+* Explain what common data they hold and their open data responsibility.
 
 ## Point 10: Be able to test the end-to-end service in an environment identical to that of the live version, including on all common browsers and devices, and using dummy accounts and a representative sample of users.
 
@@ -254,13 +254,13 @@ Service Manager able to:
 
 Service Manager able to:
 
-* explain what environments they have.
-* explain how quickly and easily they can create a new environment.
-* explain what data exists in their pre-production environments.
-* explain how they are gaining confidence that their service will perform under expected loads (including assisted digital routes).
-* describe testing environments, systems, and approaches for non-digital parts of the service (including assisted digital routes).
-* explain how they are checking that their system works on all the supported devices.
-* demonstrate their service in a live-like environment.
+* Explain what environments they have.
+* Explain how quickly and easily they can create a new environment.
+* Explain what data exists in their pre-production environments.
+* Explain how they are gaining confidence that their service will perform under expected loads (including assisted digital routes).
+* Describe testing environments, systems, and approaches for non-digital parts of the service (including assisted digital routes).
+* Explain how they are checking that their system works on all the supported devices.
+* Demonstrate their service in a live-like environment.
 
 ## Point 11: Make a plan for the event of the digital service being taken temporarily offline.
 
@@ -276,10 +276,10 @@ Service Manager able to:
 
 Service Manager able to:
 
-* explain the impact upon users of the beta service being unavailable for any length of time.
-* explain how they are selecting technology and platforms that meet their availability requirements.
-* explain their data recovery strategy and how they have tested it.
-* explain what things are most likely to take the service offline and what mitigations they are considering.
+* Explain the impact upon users of the beta service being unavailable for any length of time.
+* Explain how they are selecting technology and platforms that meet their availability requirements.
+* Explain their data recovery strategy and how they have tested it.
+* Explain what things are most likely to take the service offline and what mitigations they are considering.
 
 ## Point 12: Create a service that is simple and intuitive enough that users succeed first time.
 
@@ -312,23 +312,23 @@ Service Manager able to:
 
 Service Manager able to:
 
-* show the majority of users of the service are succeeding first time.
-* explain how the design and content decisions for the service were made, and relate back to user research, usability testing and analytics.
-* show the service is accessible.
-* explain other paths in the service and demonstrate that they work.
-* show videos of usability testing.
-* talk through substantial iteration in the design and content of the service.
+* Show the majority of users of the service are succeeding first time.
+* Explain how the design and content decisions for the service were made, and relate back to user research, usability testing and analytics.
+* Show the service is accessible.
+* Explain other paths in the service and demonstrate that they work.
+* Show videos of usability testing.
+* Talk through substantial iteration in the design and content of the service.
 
 
 #### Assisted digital support
 
 Service Manager able to:
 
-* talk through how the assisted digital support has been designed to meet user needs, including routes and providers. If not providing all types (telephone and face by face, talk through and on behalf of), explain why.
-* explain the end-to-end user journeys for assisted digital support, including identity assurance (e.g. Verify) if required.
-* explain how you will test your assisted digital support in beta, with users with the lowest level of digital skills and access.
-* explain how you will test the end-to-end user journey for each route, including identity assurance (e.g. Verify) if required.
-* explain how you are able to iterate your assisted digital support across all routes and providers, for the full end-to-end journey?
+* Talk through how the assisted digital support has been designed to meet user needs, including routes and providers. If not providing all types (telephone and face by face, talk through and on behalf of), explain why.
+* Explain the end-to-end user journeys for assisted digital support, including identity assurance (e.g. Verify) if required.
+* Explain how you will test your assisted digital support in beta, with users with the lowest level of digital skills and access.
+* Explain how you will test the end-to-end user journey for each route, including identity assurance (e.g. Verify) if required.
+* Explain how you are able to iterate your assisted digital support across all routes and providers, for the full end-to-end journey?
 
 ## Point 13: Build a service consistent with the user experience of the rest of GOV.UK including using the design patterns and style guide.
 
@@ -345,10 +345,10 @@ Service Manager able to:
 ### Evidence
 Service Manager able to:
 
-* explain how the service has used the GOV.UK design patterns, front-end tool kit and GDS style guide.
-* explain what design, content design and front-end developer support are available to the team during beta.
-* show the service is responsive and works on mobile.
-* show that the headers and footers match the GOV.UK style.
+* Explain how the service has used the GOV.UK design patterns, front-end tool kit and GDS style guide.
+* Explain what design, content design and front-end developer support are available to the team during beta.
+* Show the service is responsive and works on mobile.
+* Show that the headers and footers match the GOV.UK style.
 
 
 ## Point 14: Encourage all users to use the digital service (with assisted digital support if required), alongside an appropriate plan to phase out non-digital channels/services.
@@ -365,11 +365,11 @@ Service Manager able to:
 
 Service Manager able to:
 
-* explain how they plan to increase digital take up during beta.
-* explain the evidence base behind their plans for increasing digital take up.
-* demonstrate (at least) weekly analytics/metrics for usage volumes across channels.
-* demonstrate how your messaging has improved based on user insight and how it has performed based on analytics.
-* explain engagement across all delivery channels and planning for promoting digital take-up.
+* Explain how they plan to increase digital take up during beta.
+* Explain the evidence base behind their plans for increasing digital take up.
+* Demonstrate (at least) weekly analytics/metrics for usage volumes across channels.
+* Demonstrate how your messaging has improved based on user insight and how it has performed based on analytics.
+* Explain engagement across all delivery channels and planning for promoting digital take-up.
 
 ## Point 15: Use tools for analysis that collect performance data. Use this data to analyse the success of the service and to translate this into features and tasks for the next phase of development.
 
@@ -390,16 +390,16 @@ Service Manager able to:
 
 Service Manager able to:
 
-* explain what data sources and analysis have been undertaken in the alpha stage.
-* explain how the shape of the service has influenced the choice of metrics, data points and data sources.
-* explain the choice of analysis tools used in the beta (and alpha if appropriate).
-* show that appropriate information security and privacy issues have been addressed.
-* explain how they have modelled user journeys and will track progression through the service so they can identify completions and areas of poor performance in the beta.
-* talk clearly about evidence from qualitative and quantitative data, what they learned from these sources and what changes to user needs/improvements they identified.
-* talk through how these were prioritised and what features were changed or implemented.
-* talk about the ongoing roadmap for performance analysis, and explain who in the team is responsible for identifying actionable data insights during the beta, including for assisted digital support.
-* explain the next performance analysis user story.
-* show they have discussed and agreed start and end pages with GOV.UK and these are optimised.
+* Explain what data sources and analysis have been undertaken in the alpha stage.
+* Explain how the shape of the service has influenced the choice of metrics, data points and data sources.
+* Explain the choice of analysis tools used in the beta (and alpha if appropriate).
+* Show that appropriate information security and privacy issues have been addressed.
+* Explain how they have modelled user journeys and will track progression through the service so they can identify completions and areas of poor performance in the beta.
+* Talk clearly about evidence from qualitative and quantitative data, what they learned from these sources and what changes to user needs/improvements they identified.
+* Talk through how these were prioritised and what features were changed or implemented.
+* Talk about the ongoing roadmap for performance analysis, and explain who in the team is responsible for identifying actionable data insights during the beta, including for assisted digital support.
+* Explain the next performance analysis user story.
+* Show they have discussed and agreed start and end pages with GOV.UK and these are optimised.
 
 ## Point 16: Identify performance indicators for the service, including the 4 mandatory key performance indicators (KPIs) defined in the manual. Establish a benchmark for each metric and make a plan to enable improvements.
 
@@ -420,17 +420,17 @@ Service Manager able to:
 
 Service Manager able to:
 
-* explain changes to the metrics collected since alpha and the reasons for change (if any).
-* show how they currently measure the performance of the existing service (if applicable) and which measures will provide a baseline for the new service.
-* show how they are collecting users journey data for the new service during beta (using a chosen analytics package).
-* show how they are collecting and calculating cost per transaction (or equivalent*) during beta.
-* show how they are collecting user satisfaction data during beta (GOV.UK 'done page' questionnaire or other).
-* show how they are collecting completion rate (or equivalent*) data during beta.
-* show how they are collecting other metrics data (including journey stage information) during beta.
-* explain how they plan to increase digital take up during beta.
-* explain how they are assessing potential for channel shift and level of assisted digital services required.
-* explain how they are engaging with beta users, delivery partners and other stakeholders to manage transition to live service.
-* explain how they will track migration from online to offline.
+* Explain changes to the metrics collected since alpha and the reasons for change (if any).
+* Show how they currently measure the performance of the existing service (if applicable) and which measures will provide a baseline for the new service.
+* Show how they are collecting users journey data for the new service during beta (using a chosen analytics package).
+* Show how they are collecting and calculating cost per transaction (or equivalent*) during beta.
+* Show how they are collecting user satisfaction data during beta (GOV.UK 'done page' questionnaire or other).
+* Show how they are collecting completion rate (or equivalent*) data during beta.
+* Show how they are collecting other metrics data (including journey stage information) during beta.
+* Explain how they plan to increase digital take up during beta.
+* Explain how they are assessing potential for channel shift and level of assisted digital services required.
+* Explain how they are engaging with beta users, delivery partners and other stakeholders to manage transition to live service.
+* Explain how they will track migration from online to offline.
 <aside>
   * for non-transactional user journeys
 </aside>
