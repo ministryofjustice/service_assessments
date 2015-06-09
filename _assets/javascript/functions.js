@@ -10,18 +10,18 @@
     },
 
     cacheEls: function() {
-      this.$allResponses = $('h2').nextUntil('h2'); //cache the elements we are going to use the most, do it once. 
+      this.$allResponses = $('body.version_v1 h2').nextUntil('h2'); //cache the elements we are going to use the most, do it once.
     },
 
     bindEvents: function() {
       var that = this;
-      $('body').on('click', 'h2', function(e) {
+      $('body.version_v1').on('click', 'h2', function(e) {
         that.toggleSection($(this));
       });
     }, //end bind events
 
     toggleSection: function($element) {
-      //Cache the content between the clicked h2 and the next H2    
+      //Cache the content between the clicked h2 and the next H2
       var $response = $element.nextUntil('h2');
       var $icon = $element.find('span');
 

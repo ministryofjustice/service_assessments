@@ -1,3 +1,7 @@
+body {
+  height:auto;
+}
+
 body > #nav {
     background-color:#ddd;
     padding:0.5em;
@@ -19,7 +23,7 @@ body > nav > ul li:first-child {
     padding-left:0;
 }
 
-h2 {
+.version_v1 h2 {
     background: url(../images/bullet_blue_expand.png) left center no-repeat;
     padding-left: 30px;
     background-size: 18px 18px;
@@ -130,6 +134,3 @@ td,tr {
     }
 
 }
-
-
-
