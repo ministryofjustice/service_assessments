@@ -1,15 +1,16 @@
-body > nav {
+body > #nav {
     background-color:#ddd;
     padding:0.5em;
 }
 
-body > nav > ul {
+body > #nav nav {
     max-width:990px;
     margin:0 auto;
     list-style-type:none;
+    overflow:auto;
 }
 
-body > nav > ul li {
+body > #nav > nav > ul li {
     display:inline;
     padding-left:0.5em;
 }
@@ -41,8 +42,23 @@ ul {
 ol {
   list-style-type: decimal;
 }
-#feedback {
+.extra_nav {
      float: right;
+}
+
+
+#nav > nav dl {
+  display:inline;
+}
+
+nav ul {
+  margin:0;
+}
+
+nav dl dt, nav dl dd {
+  float:left;
+  padding-left:0.5em;
+  margin:0;
 }
 
 #print {
