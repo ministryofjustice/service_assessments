@@ -11,4 +11,8 @@ This is an MVP of an attempt to do the following:
 
 Click on the links above to see the prompts for each stage.
 
-Latest version issued by GDS v.1.20 last updated 13/11/2014 
+### Versions:
+
+**Version 1** v.1.20 last updated 13/11/2014
+**Version 2** v.2 last updated 09/06/2015
+
