@@ -4,7 +4,12 @@ title: Alpha
 version: v1
 redirect_from:
   - /phases/alpha.html
+  - /phases/v1/
 ---
+
+# Alpha Assessment
+
+**Note:** The 26-point service standard was in use until 1 June 2015. Please use the [updated 18-point service standard](/phases/v2/alpha.html).
 
 ## User Needs
 

@@ -4,6 +4,9 @@ title: Live
 version: v2
 ---
 
+# Live Assessment
+
+**Note:** The 18-point service standard came into use on 1 June 2015.
 
 ## Point 1: Understand user needs. Research to develop a deep knowledge of who the service users are and what that means for the design of the service.
 

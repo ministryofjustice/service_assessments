@@ -6,6 +6,10 @@ redirect_from:
   - /phases/live.html
 ---
 
+# Live Assessment
+
+**Note:** The 26-point service standard was in use until 1 June 2015. Please use the [updated 18-point service standard](/phases/v2/live.html).
+
 ## User Needs
 
 ### 1
