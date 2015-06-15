@@ -1,0 +1,24 @@
+---
+layout: default
+---
+
+<div class="inner-block">
+  <h1 class="dbd-header">
+    Digital by Default
+    <br>Service Standard
+  </h1>
+
+  <h2 class="service-standard__heading">The criteria</h2>
+
+  {% assign standard = (site.service-standard | where: "phase" , page.phase_to_list | sort: "criterion") %}
+  <ol class="service-standard">
+    {% for page in standard %}
+      {% assign title = site.data['service-standard-v2'].criteria[page.criterion] %}
+      <li id="criterion-{{ page.criterion }}" class="service-standard__point">
+        <div class="service-standard__text">
+          <a href="{{ page.url }}">{{ title }}</a>
+        </div>
+      </li>
+    {% endfor %}
+  </ol>
+</div>

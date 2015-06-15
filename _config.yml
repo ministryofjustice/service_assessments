@@ -9,7 +9,16 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 twitter_username: jekyllrb
 github_username:  jekyll
-
+collections:
+  service-standard:
+    output: true
+# Defaults
+defaults:
+  -
+    scope:
+      type: "service-standard"
+    values:
+      layout: "service-standard-article"
 # Build settings
 markdown: kramdown
 kramdown:
