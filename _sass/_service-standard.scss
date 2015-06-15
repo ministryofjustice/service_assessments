@@ -1,0 +1,99 @@
+@import '_assets/govuk_frontend_toolkit/stylesheets/_colours.scss';
+@import '_assets/govuk_frontend_toolkit/stylesheets/_typography.scss';
+@import '_assets/govuk_frontend_toolkit/stylesheets/_conditionals.scss';
+@import '_assets/govuk_frontend_toolkit/stylesheets/_shims.scss';
+
+//
+// Service standard list
+//
+
+.dbd-header {
+  background: url("/images/DbD-kitemark.png") no-repeat 50% 70%;
+  background-size: 100%;
+  text-indent: -9999px;
+  width: 300px;
+  height: 100px;
+  padding-top: 100px;
+  overflow: hidden;
+  margin: 0.5em 0 1em;
+}
+
+.service-standard {
+  border-top: 5px solid $mellow-red;
+  margin: 0 0 2em;
+  padding: 0;
+  list-style: none;
+  counter-reset: standard-counter;
+}
+
+.service-standard__heading {
+  @include bold-24;
+}
+
+.service-standard__point {
+  @include core-24;
+  @extend %contain-floats;
+  display: block;
+  padding: 1.75em 0;
+  border-bottom: 1px solid $grey-2;
+
+  &:before {
+    @include bold-80;
+    @include inline-block;
+    content: counter(standard-counter);
+    counter-increment: standard-counter;
+    float: left;
+    margin-right: 6.5%;
+    text-align: right;
+
+    @include media(tablet) {
+      width: 10%;
+    }
+  }
+}
+
+.service-standard__text {
+  @include core-24;
+  padding-left: 15%;
+
+  @include media(tablet) {
+    float: left;
+    padding-left: 0;
+    width: 67%;
+  }
+
+  a {
+    text-decoration: underline;
+  }
+}
+
+//
+// Service standard article
+//
+
+.criterion {
+  
+  h2 {
+    @include bold-27;
+  }
+
+  h3 {
+    @include bold-24;
+  }
+
+  h4 {
+    @include bold-19;
+  }
+}
+
+.criterion__header {
+  border-bottom: 1px solid $grey-2;
+  margin-bottom: 2em;
+}
+
+.criterion__title {
+  @include core-24;
+  padding: 0 0 0.75em;
+  margin: 0;
+  width: 70%;
+}

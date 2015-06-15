@@ -1,0 +1,136 @@
+body {
+  height:auto;
+}
+
+body > #nav {
+    background-color:#ddd;
+    padding:0.5em;
+}
+
+body > #nav nav {
+    max-width:990px;
+    margin:0 auto;
+    list-style-type:none;
+    overflow:auto;
+}
+
+body > #nav > nav > ul li {
+    display:inline;
+    padding-left:0.5em;
+}
+
+body > nav > ul li:first-child {
+    padding-left:0;
+}
+
+.version_v1 h2 {
+    background: url(../images/bullet_blue_expand.png) left center no-repeat;
+    padding-left: 30px;
+    background-size: 18px 18px;
+}
+h2.is-open {
+    background-image: url(../images/bullet_blue_collapse.png);
+    padding-left: 30px;
+    background-size: 18px 18px;
+}
+
+ul,
+ol {
+    margin-left: 25px;
+}
+
+ul {
+    list-style-type: disc;
+}
+
+ol {
+  list-style-type: decimal;
+}
+.extra_nav {
+     float: right;
+}
+
+
+#nav > nav dl {
+  display:inline;
+}
+
+nav ul {
+  margin:0;
+}
+
+nav dl dt, nav dl dd {
+  float:left;
+  padding-left:0.5em;
+  margin:0;
+}
+
+#print {
+     float: right;
+     margin: 3px 30px 0px 30px;
+}
+
+
+/* Markdown table  */
+tr:nth-child(even) {
+    background: #DDDDDD;
+}​
+table, th, td {
+    border: solid black 1px;
+}
+th{
+    font-family:Arial,sans-serif;font-size:12px;
+    font-weight:normal;
+    padding:10px 5px;
+    border-style:solid;
+    border-width:1px;
+    overflow:hidden;
+    word-break:normal;
+    background-color: #66AAEE;
+}
+td,tr {
+    font-family:Arial,sans-serif;font-size:14px;
+    padding:10px 5px;
+    border-style:solid;border-width:1px;
+    overflow:hidden;
+    word-break:normal;
+}
+
+
+/* HTML table  */
+.tg  {
+    border-collapse:collapse;
+    border-spacing:0;
+}
+.tg td{
+    font-family:Arial,sans-serif;font-size:14px;
+    padding:10px 5px;
+    border-style:solid;border-width:1px;
+    overflow:hidden;
+    word-break:normal;
+}
+.tg th{
+    font-family:Arial,sans-serif;font-size:14px;
+    font-weight:normal;
+    padding:10px 5px;
+    border-style:solid;
+    border-width:1px;
+    overflow:hidden;
+    word-break:normal;
+    background-color: #66AAEE;
+}
+
+@media print{
+    .site-nav{
+    display: none;
+
+    }
+    #header-global{
+    display: none;
+
+    }
+    title {
+        display: none;
+    }
+
+}
