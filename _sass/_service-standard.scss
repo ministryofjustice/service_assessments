@@ -30,25 +30,32 @@
   @include bold-24;
 }
 
-.service-standard__point {
+.service-standard__category {
+  @include bold-24;
+  padding: 0 0 0.25em;
+  margin: 1.75em 0 0;
+  border-bottom: 2px solid $mellow-red;
+}
+
+.service-standard__item {
   @include core-24;
   @extend %contain-floats;
   display: block;
   padding: 1.75em 0;
   border-bottom: 1px solid $grey-2;
+}
 
-  &:before {
-    @include bold-80;
-    @include inline-block;
-    content: counter(standard-counter);
-    counter-increment: standard-counter;
-    float: left;
-    margin-right: 6.5%;
-    text-align: right;
+.service-standard__number {
+  @include bold-80;
+  @include inline-block;
+  content: counter(standard-counter);
+  counter-increment: standard-counter;
+  float: left;
+  margin-right: 6.5%;
+  text-align: right;
 
-    @include media(tablet) {
-      width: 10%;
-    }
+  @include media(tablet) {
+    width: 10%;
   }
 }
 

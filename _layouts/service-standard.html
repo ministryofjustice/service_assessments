@@ -2,23 +2,31 @@
 layout: default
 ---
 
+{% assign version = 'v'|append:page.version %}
+{% assign criteria = site.service-standard | where: "phase", page.phase | where: "layout", "service-standard-article" | sort: "criterion" %}
+
 <div class="inner-block">
-  <h1 class="dbd-header">
-    Digital by Default
-    <br>Service Standard
-  </h1>
+  <h1 class="dbd-header">Digital by Default Service Standard</h1>
 
   <h2 class="service-standard__heading">The criteria</h2>
 
-  {% assign standard = (site.service-standard | where: "phase" , page.phase_to_list | sort: "criterion") %}
-  <ol class="service-standard">
-    {% for page in standard %}
-      {% assign title = site.data['service-standard-v2'].criteria[page.criterion] %}
-      <li id="criterion-{{ page.criterion }}" class="service-standard__point">
-        <div class="service-standard__text">
-          <a href="{{ page.url }}">{{ title }}</a>
-        </div>
-      </li>
-    {% endfor %}
-  </ol>
+  <ul class="service-standard">
+    {% if page.grouped %}
+      {% assign grouped = (criteria | group_by: "category") %}
+      
+      {% for group in grouped %}
+        {% if group.name != "" %}
+          <li class="service-standard__category">{{ group.name }}</li>
+          
+          {% for item in group.items %}
+            {% include criterion.html page=item version=version %}
+          {% endfor %}
+        {% endif %}
+      {% endfor %}
+    {% else %}
+      {% for item in criteria %}
+        {% include criterion.html page=item version=version %}
+      {% endfor %}
+    {% endif %}
+  </ul>
 </div>
