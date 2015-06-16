@@ -1,5 +1,7 @@
 {% if include.page.relative_path contains include.version %}
-  {% assign title = site.data['service-standard-v2'].criteria[include.page.criterion] %}
+  {% assign data = 'service-standard-'|append:include.version %}
+  {% assign title = site.data[data].criteria[include.page.criterion] %}
+
   <li id="criterion-{{ include.page.criterion }}" class="service-standard__item">
     <div class="service-standard__number">{{ include.page.criterion }}</div>
     <div class="service-standard__text">
