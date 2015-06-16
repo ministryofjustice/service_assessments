@@ -19,11 +19,11 @@ To install the app dependencies clone the repo then CD to the directory, then ru
 
     bundle install
 
-Then Starting the app with:
+Then starting the app with:
 
     jekyll s
 
-# For info See
+# For info see
 
 * https://github.com/jekyll/jekyll-redirect-from
 * https://github.com/laurilehmijoki/s3_website
