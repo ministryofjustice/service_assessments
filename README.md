@@ -15,7 +15,7 @@ Static site providing a HTML form to host the prompts for service assessors, del
 
 # Project setup
 
-To install the app dependencies clone the repo then CD to the directory, then run the following if bundler is already installed. If iu need to install Bundler first. 
+To install the app dependencies clone the repo then CD to the directory, then run the following if bundler is already installed. If you need to install Bundler, run Gem install Bundler first. 
 
     bundle install
 
@@ -25,5 +25,5 @@ Then Starting the app with:
 
 # For info See
 
-https://github.com/jekyll/jekyll-redirect-from
-https://github.com/laurilehmijoki/s3_website
+* https://github.com/jekyll/jekyll-redirect-from
+* https://github.com/laurilehmijoki/s3_website
