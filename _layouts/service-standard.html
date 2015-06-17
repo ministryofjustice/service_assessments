@@ -1,0 +1,32 @@
+---
+layout: default
+---
+
+{% assign version = 'v'|append:page.version %}
+{% assign criteria = site.service-standard | where: "phase", page.phase | where: "layout", "service-standard-article" | sort: "criterion" %}
+
+<div class="inner-block">
+  <h1 class="dbd-header">Digital by Default Service Standard</h1>
+
+  <h2 class="service-standard__heading">The criteria</h2>
+
+  <ul class="service-standard">
+    {% if page.grouped %}
+      {% assign grouped = (criteria | group_by: "category") %}
+      
+      {% for group in grouped %}
+        {% if group.name != "" %}
+          <li class="service-standard__category">{{ group.name }}</li>
+          
+          {% for item in group.items %}
+            {% include criterion.html page=item version=version %}
+          {% endfor %}
+        {% endif %}
+      {% endfor %}
+    {% else %}
+      {% for item in criteria %}
+        {% include criterion.html page=item version=version %}
+      {% endfor %}
+    {% endif %}
+  </ul>
+</div>
