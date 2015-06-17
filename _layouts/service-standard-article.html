@@ -1,22 +1,17 @@
 ---
-layout: default
+layout: govuk_template
 ---
 
 {% assign title = site.data['service-standard-v2'].criteria[page.criterion] %}
 
-<div class="inner-block">
-  <h2 class="dbd-header">
-    Digital by Default
-    <br>Service Standard
-  </h2>
+<h2 class="dbd-header">Digital by Default Service Standard</h2>
 
-  <div class="criterion">
-    <header class="criterion__header">
-      <h1 class="criterion__title">{{ title }}</h1>
-    </header>
+<div class="criterion">
+  <header class="criterion__header">
+    <h1 class="criterion__title">{{ title }}</h1>
+  </header>
 
-    <article>
-      {{ content }}
-    </article>
-  </div>
+  <article>
+    {{ content }}
+  </article>
 </div>

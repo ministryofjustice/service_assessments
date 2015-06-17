@@ -1,7 +1,5 @@
 ---
-layout: default
 title: About
-
 ---
 
 This is an MVP of an attempt to do the following:
