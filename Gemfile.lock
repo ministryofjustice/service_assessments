@@ -87,6 +87,3 @@ DEPENDENCIES
   jekyll-asset-pipeline
   jekyll-redirect-from
   s3_website
-
-BUNDLED WITH
-   1.10.3
