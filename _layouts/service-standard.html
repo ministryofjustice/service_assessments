@@ -7,6 +7,14 @@ layout: govuk_template
 
 <h1 class="dbd-header">Digital by Default Service Standard</h1>
 
+{% if page.version == 1 %}
+  <p class="status-block">
+    The information on this page has been replaced by the <a href="{{ "/service-standard/v2/alpha/" | prepend: site.baseurl }}">18 point Digital Service Standard</a>. The 26 point Standard was in use until 1 June 2015.
+  </p>
+{% else if page.version == 2 %}
+  <p class="lede">The Digital Service Standard was changed from <a href="{{ "/service-standard/v1/alpha/" | prepend: site.baseurl }}">26 points</a> to a more concise 18. From 1 June 2015 all transactional services will be assessed on the new 18 points.</p>
+{% endif %}
+
 <h2 class="service-standard__heading">The criteria</h2>
 
 <ul class="service-standard">

@@ -1,4 +1,6 @@
-@import 'govuk_frontend_toolkit/stylesheets/_conditionals.scss';
+@import 'govuk_frontend_toolkit/stylesheets/conditionals';
+@import 'govuk_frontend_toolkit/stylesheets/typography';
+@import 'govuk_frontend_toolkit/stylesheets/colours';
 
 #main {
   max-width: 960px;
@@ -10,4 +12,21 @@
   @include media(false, false, $min-width: 1020px) {
     margin: 0 auto;
   }
+}
+
+article {
+  ul, ol, p {
+    @include core-19;
+  }
+}
+
+.lede {
+  @include core-24;
+}
+
+.status-block {
+  @include core-24;
+  border: 5px solid $govuk-blue;
+  padding: 30px 15px;
+  margin: 50px 0;
 }

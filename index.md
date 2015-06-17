@@ -1,5 +1,6 @@
 ---
 title: About
+layout: page
 ---
 
 This is an MVP of an attempt to do the following:
