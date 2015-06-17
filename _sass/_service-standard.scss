@@ -1,21 +1,23 @@
-@import '_assets/govuk_frontend_toolkit/stylesheets/_colours.scss';
-@import '_assets/govuk_frontend_toolkit/stylesheets/_typography.scss';
-@import '_assets/govuk_frontend_toolkit/stylesheets/_conditionals.scss';
-@import '_assets/govuk_frontend_toolkit/stylesheets/_shims.scss';
+@import 'govuk_frontend_toolkit/stylesheets/_colours.scss';
+@import 'govuk_frontend_toolkit/stylesheets/_typography.scss';
+@import 'govuk_frontend_toolkit/stylesheets/_conditionals.scss';
+@import 'govuk_frontend_toolkit/stylesheets/_shims.scss';
 
 //
 // Service standard list
 //
 
 .dbd-header {
-  background: url("/images/DbD-kitemark.png") no-repeat 50% 70%;
+  @include core-36;
+  background: url("../images/DbD-kitemark.png") no-repeat 0 0;
   background-size: 100%;
   text-indent: -9999px;
   width: 300px;
-  height: 100px;
-  padding-top: 100px;
+  height: 70px;
+  padding: 0;
   overflow: hidden;
-  margin: 0.5em 0 1em;
+  position: relative;
+  margin: 1.5em 0;
 }
 
 .service-standard {

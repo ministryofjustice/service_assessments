@@ -1,0 +1,19 @@
+@import 'govuk_frontend_toolkit/stylesheets/design-patterns/alpha-beta';
+
+.phase-banner {
+  @include phase-banner(alpha);
+
+  max-width: 960px;
+  margin: 0 15px;
+
+  @include media(tablet) {
+    margin: 0 30px;
+  }
+  @include media(false, false, $min-width: 1020px) {
+    margin: 0 auto;
+  }
+}
+
+.phase-tag {
+
+}
