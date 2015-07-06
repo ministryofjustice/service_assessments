@@ -10,6 +10,14 @@ To install the app dependencies clone the repo then CD to the directory, then ru
 
     bundle install
 
+To fetch the govuk_frontend_toolkit run the following command:
+
+    git submodule init
+
+To update the govuk_frontend_toolkit run the following command:
+
+    git submodule update
+
 Then starting the app with:
 
     jekyll s
