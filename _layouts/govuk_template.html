@@ -80,14 +80,6 @@
     
     <header role="banner" id="global-header" class="with-proposition">
       <div class="header-wrapper">
-        <div class="header-global">
-          <div class="header-logo">
-            <a href="{% if page.homepage_url %}{{ page.homepage_url }}{% else %}https://www.gov.uk/{% endif %}" title="Go to the GOV.UK homepage" id="logo" class="content">
-              <img src="{{ site.govuk_template_assets }}/images/gov.uk_logotype_crown.png" width="35" height="31" alt=""> GOV.UK
-            </a>
-          </div>
-        </div>
-        
         {% include proposition_header.html %}
       </div>
     </header>
