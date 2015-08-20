@@ -1,3 +1,4 @@
+@import 'govuk_frontend_toolkit/stylesheets/colours';
 @import 'govuk_frontend_toolkit/stylesheets/design-patterns/alpha-beta';
 
 .phase-banner {
@@ -15,5 +16,21 @@
 }
 
 .phase-tag {
+  &.alpha {
+    @include phase-tag(alpha);
+  }
 
+  &.beta {
+    @include phase-tag(beta);
+  }
+
+  &.live {
+    @include phase-tag();
+    background-color: $live-colour;
+  }
+  // active state
+  &.active {
+    background-color: transparent;
+    color: $black;
+  }
 }

@@ -1,7 +1,7 @@
-@import 'govuk_frontend_toolkit/stylesheets/_colours.scss';
-@import 'govuk_frontend_toolkit/stylesheets/_typography.scss';
-@import 'govuk_frontend_toolkit/stylesheets/_conditionals.scss';
-@import 'govuk_frontend_toolkit/stylesheets/_shims.scss';
+@import 'govuk_frontend_toolkit/stylesheets/colours.scss';
+@import 'govuk_frontend_toolkit/stylesheets/typography.scss';
+@import 'govuk_frontend_toolkit/stylesheets/conditionals.scss';
+@import 'govuk_frontend_toolkit/stylesheets/shims.scss';
 
 //
 // Service standard list
@@ -73,6 +73,35 @@
 
   a {
     text-decoration: underline;
+  }
+}
+
+.service-standard__phase-nav {
+  @extend %contain-floats;
+  @include core-19;
+  clear: both;
+  list-style: none;
+  margin: 1em 0 2em;
+  padding: 0;
+  border-top: 1px solid $grey-2;
+  border-bottom: 1px solid $grey-2;
+  padding: 1em 0;
+
+  li {
+    float: left;
+    margin-right: 15px;
+
+    a {
+      font-weight: 700;
+      text-transform: uppercase;
+    }
+
+    a.phase-tag {
+      @include bold-19;
+      text-transform: uppercase;
+      margin-right: 0;
+      margin-top: -5px;
+    }
   }
 }
 

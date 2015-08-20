@@ -15,6 +15,17 @@ layout: govuk_template
   <p class="lede">The Digital Service Standard was changed from <a href="{{ "/service-standard/v1/alpha/" | prepend: site.baseurl }}">26 points</a> to a more concise 18. From 1 June 2015 all transactional services will be assessed on the new 18 points.</p>
 {% endif %}
 
+<p class="lede">The prompts and evidence differ for each assessment phase.</p>
+
+<nav>
+  <ul class="service-standard__phase-nav">
+    <li>Choose phase:</li>
+    <li><a href="{{ "/service-standard/" | prepend: site.baseurl }}{{ version }}/alpha/" class="{% if page.url contains 'alpha' %}phase-tag alpha{% endif %}">Alpha</a></li>
+    <li><a href="{{ "/service-standard/" | prepend: site.baseurl }}{{ version }}/beta/" class="{% if page.url contains 'beta' %}phase-tag beta{% endif %}">Beta</a></li>
+    <li><a href="{{ "/service-standard/" | prepend: site.baseurl }}{{ version }}/live/" class="{% if page.url contains 'live' %}phase-tag live{% endif %}">Live</a></li>
+  </ul>
+</nav>
+
 <h2 class="service-standard__heading">The criteria</h2>
 
 <ul class="service-standard">
