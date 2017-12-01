@@ -39,5 +39,5 @@ exclude:
   - Gemfile.lock
   - s3_website.yml
 
-gems:
+plugins:
   - jekyll-redirect-from

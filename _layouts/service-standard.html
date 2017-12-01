@@ -30,12 +30,12 @@ layout: govuk_template
 
 <ul class="service-standard">
   {% if page.grouped %}
-    {% assign grouped = (criteria | group_by: "category") %}
-    
+    {% assign grouped = criteria | group_by: "category" %}
+
     {% for group in grouped %}
       {% if group.name != "" %}
         <li class="service-standard__category">{{ group.name }}</li>
-        
+
         {% for item in group.items %}
           {% include criterion.html page=item version=version %}
         {% endfor %}
